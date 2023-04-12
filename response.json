@@ -1,0 +1,1687 @@
+{
+  "routes": [
+    {
+      "legs": [
+        {
+          "distanceMeters": 150321,
+          "duration": "5303s",
+          "staticDuration": "5588s",
+          "polyline": {
+            "encodedPolyline": "mrlaGtavpLPLBTm@nDDVNL|Af@HPAVKl@c@f@EJwEsAaEeBqFmC}@U_Bo@s@i@{BsAmB{Ay@]u@KyFOEBoB[_@S_@]Ui@Iq@?o@Ju@Re@\\_@l@Wr@Gf@Bh@Nj@b@h@x@Vx@PhADfAC`JEdCDTa@zDmCjQ[dEo@tJGrCA~KB~N`@nl@P~e@GrCYvEIxD@xp@@jISzE]lDmEd`@e@pCo@pC_AtCeAdCsDdIaAjCsAzEuAlDkGxNw@tAaAlAiA|@iCrA{BfA_Ar@eAnAm@`Ao@xAc@~Ai@tCUzBQzD?nDN`D`@|CjCpM\\nCRvCDxCEjDSjDiEtn@wC~d@IrD?tDJrDx@tMNjFxAnwA?lI[hX_@`SIjG?lEF~CZzEj@nFtE|]dCjV|D`[jArH|Lfo@rAfIdA~Hv@tHz@fKrCta@b@hEl@pE|DhYp@fGf@dHvBrg@f@rIz@dKP`EN~NNjErDl{@TrC^jCl@jCt@bCp@bBtAhCxBrDn@bAjAdCn@dBn@dCt@`ErBbMl@fC|@jC~@vB`H`Mz@tBp@fC\\tBR`CDvBErN_@b^DdF`@jONbHfAr]^dGh@|FlMreA^bE`@jHNrFFlGA|GM`[HbGRpGXvE`@jEn@`F~@xFz@fEtAnFtBbHhDtJtZz}@lBzE|B|ExB|DrClExW|^|AbCjCdFbBzD|@~BhB|FbAdEbAfFv@lFl@~FlBpWZxCr@bF~@tEbAxDdAbD`BdEtBbEnFjKbB~D~@nChA`Ev@pDl@jDl@bF\\pEPfEFxDCtFOfFUjDsSleCiCpViBbQ_@~ESrGGxEDvGNpFVtE`@nEl@|Ele@vzCt@tDlAxEp@xBnAfDpAtCtQf^`BjDx@pB~@dCfBdGjA|Er@vD~@vGd@zE`@dHj@tTtBpz@VjFh@hFh@tDz@fE~@xDdAhDzAzD|AdD`BtC~B~DzEfIrKvQxc@|u@vAnCvAvCdBlE~ArEnAfEhAvExApHzX`{AxG~a@|v@b~E`A|EdAlExAzEvd@|uArBlFhCpFhChEnBjC~CpDxEnEthAjcApHxGbEdEdDzD|C`E|BfD`\\vi@lChFnCfGrBfFx^t_ApBrFfAvDjA~Ex@lEdK`p@p@vFb@dFXrFJnE@`DChFO`Fm@bM_JpcBQlFGnE?|DLrG\\rGh@bGxE`_@f@fF\\`GLlFBtG{C|kC@fGHhEVpF^vEh@vEt@~EtKlk@vAfI~@tGv@lHj@fH^lHRdGLvMrCldDTjKb@`Ld@dIr@zJhA~KfAdJxAzJbBnJfB|I`CzJ`CzIjCtI~C`J|C`Ixl@jvAbBtE`AfD|@tD~@zEt@fFr@xGZ`FPvFrApv@VjHb@~Ip@tJl@|GjBfPzEz`@~@xJh@xH|GvjAf@hFl@dEx@~DhApEtAhEnA~ChBrDtJbQzBxEvCtHnDxJ~DtL`EhNdBrHrAfIr@`GXnDVhGx@~YXfFl@|Gt@rF~@jFpArFnAlEtKn\\lAtE|@pEbPb~@lApI~J|t@pAbIbBpIpBpIrCfKrIhZrBhIpBrJvAvIvAnK~D~[dApH`BjJnBhJpBxH`BxFfCrHnCfHpd@|fA`CnGbBdFzYlbAdCjH|C|HvKxVhB`F~AhFt@vCnA`GfAnGt@~Fd@fF`@~GPfGhAts@\\`Kh@xIt@~IfArJrVbqBrAtIlBzJdBnHrCdKdCrHdDxIfTzi@fCjH|BvHpB|H~AhHdJve@vOpr@zDdQ`FpT~CzMfEnRx@`Fj@|EXbDVlFHrD@vFIxEY~Fa@~Eo@~Ey@zEmAjFwArEkObc@}AfFsApFaAzE{@zFw@|Gc@tF[pGOjH?bGHfGVbHbNhnB\\bIN`H@bIGhGSfH]vGo@bI{@rHcAvGeAvFyAnGaBdGwBtGmB~E_CjFkCfF_DnFi{@zrAyCnFsCbGaCdG}BxGiA|D{X|eAsAlEqB~FeCdGwCdG}CrFiDbFqb@dl@yCpE_DxFaDxGyiAjjC}AhE{A~EeAbEaAbFo@dEm@lFc@~FQ~DIjF?lGJhFpArWlKtrB`@dGx@xHfAtHxAbIxApGnBbHpB`Gbu@`sBjClIvB`I`BjHnAnGvAzIz@rGz@fIl@vHVlELhEFfHIlGUhF]fFk@dFu@`FeAhF_AlDiAzDyAfEgB`EuRb_@a[tl@yAjDeAzCcAvDy@~Do@fEc@hEU`EKvDArEJhF\\lF`@`Ep@`E|@hE|Snw@`B`GlApFhAzGn@zF^zEVhGfAh`@P|Dj@rHh@rEn@~DbA~EjArEjAvDjA~CfC|FbCnEhBrClUt\\vGvJnIxLnEzG~B~DjBnDdBzD`CfGpBdGhB|GrAjGdA~F~@vGl@zFh@pH\\`ILnG@vHK~GUzGo@vJiLp}AwFnv@e@lEw@hFo@vCsAdFi{@hhCyAhF{AxGiAnGy@pGk@`G]zFWzHGlGFtGNjG|IvhBtFpcAb@hJx@|NbDjq@pCdn@|Ux|ERfFPfJ?`JKRKbAQ|@a@bAa@h@uE`Fo@hAgAlDOt@UfB]pEGn@@tBFlAV|@Zx@JNl@f@hHx@fBXrGt@`El@tGv@p_@dFnE`@`EP`FA~QQbFCrCFhCRrB`@lA^rB`ApBtAdCvBpHbIbCvBrE`DrDrBdZxNtBnArB~AnAnAlA|ApAvBbAzBbBrEnEnNt@pCfA`DdB`FtBpFxBnEpS~]zBzEtAjDvAlErB~HjFrSfC|IpB`GnD`JhDnHhC`FfCfElDjFdB|BD\\tJ~NxBvD~FlLzAfDtBbEj@z@t@z@nAbAxAr@lAX|@B|AMdAYhAu@v@w@lAeB~BeEnBcEpAgDp@_CLMtBsHfAuCxAwC|A_CxHaJ`F}FvDmF`GmJ`DuE|C{DxA{A~BkB|BmAhAe@hHsBvMuDdFsAjAc@RJnC]dFw@v@QpBs@N?bFwAj@A`@L`@\\LLF@p@|@Rl@rFdb@VbCEPDfA@hFE\\Wf@c@d@GDw@DOM_@}@SiAUmBAa@]sDAq@Lk@Vo@XYRGrC_@l@NzJ|GhFzCW|Bd@z@Hb@Av@}A~OeAdL@x@tE~`@vCm@f@U^_@P_@PgA^qC"
+          },
+          "startLocation": {
+            "latLng": {
+              "latitude": 42.340386699999996,
+              "longitude": -71.0609095
+            }
+          },
+          "endLocation": {
+            "latLng": {
+              "latitude": 42.0757792,
+              "longitude": -72.5980335
+            }
+          },
+          "steps": [
+            {
+              "distanceMeters": 108,
+              "staticDuration": "28s",
+              "polyline": {
+                "encodedPolyline": "mrlaGtavpLPLBTm@nDDV"
+              },
+              "startLocation": {
+                "latLng": {
+                  "latitude": 42.340386699999996,
+                  "longitude": -71.0609095
+                }
+              },
+              "endLocation": {
+                "latLng": {
+                  "latitude": 42.3404753,
+                  "longitude": -71.0620871
+                }
+              }
+            },
+            {
+              "distanceMeters": 105,
+              "staticDuration": "34s",
+              "polyline": {
+                "encodedPolyline": "_slaG`ivpLNL|Af@HPAVKl@"
+              },
+              "startLocation": {
+                "latLng": {
+                  "latitude": 42.3404753,
+                  "longitude": -71.0620871
+                }
+              },
+              "endLocation": {
+                "latLng": {
+                  "latitude": 42.33995300000001,
+                  "longitude": -71.0627957
+                }
+              },
+              "navigationInstruction": {
+                "maneuver": "TURN_LEFT",
+                "instructions": "Turn left toward Frontage Rd"
+              }
+            },
+            {
+              "distanceMeters": 420,
+              "staticDuration": "74s",
+              "polyline": {
+                "encodedPolyline": "uolaGnmvpLc@f@EJwEsAaEeBqFmC"
+              },
+              "startLocation": {
+                "latLng": {
+                  "latitude": 42.33995300000001,
+                  "longitude": -71.0627957
+                }
+              },
+              "endLocation": {
+                "latLng": {
+                  "latitude": 42.3434245,
+                  "longitude": -71.0614159
+                }
+              },
+              "navigationInstruction": {
+                "maneuver": "TURN_RIGHT",
+                "instructions": "Turn right onto Frontage Rd"
+              }
+            },
+            {
+              "distanceMeters": 1179,
+              "staticDuration": "108s",
+              "polyline": {
+                "encodedPolyline": "kemaGzdvpL}@U_Bo@s@i@{BsAmB{Ay@]u@KyFOEBoB[_@S_@]Ui@Iq@?o@Ju@Re@\\_@l@Wr@Gf@Bh@Nj@b@h@x@Vx@PhADfAC`JEdCDT"
+              },
+              "startLocation": {
+                "latLng": {
+                  "latitude": 42.3434245,
+                  "longitude": -71.0614159
+                }
+              },
+              "endLocation": {
+                "latLng": {
+                  "latitude": 42.3466625,
+                  "longitude": -71.0619811
+                }
+              },
+              "navigationInstruction": {
+                "maneuver": "TURN_SLIGHT_LEFT",
+                "instructions": "Slight left to stay on Frontage Rd"
+              }
+            },
+            {
+              "distanceMeters": 133164,
+              "staticDuration": "4563s",
+              "polyline": {
+                "encodedPolyline": "symaGjhvpLa@zDmCjQ[dEo@tJGrCA~KB~N`@nl@P~e@GrCYvEIxD@xp@@jISzE]lDmEd`@e@pCo@pC_AtCeAdCsDdIaAjCsAzEuAlDkGxNw@tAaAlAiA|@iCrA{BfA_Ar@eAnAm@`Ao@xAc@~Ai@tCUzBQzD?nDN`D`@|CjCpM\\nCRvCDxCEjDSjDiEtn@wC~d@IrD?tDJrDx@tMNjFxAnwA?lI[hX_@`SIjG?lEF~CZzEj@nFtE|]dCjV|D`[jArH|Lfo@rAfIdA~Hv@tHz@fKrCta@b@hEl@pE|DhYp@fGf@dHvBrg@f@rIz@dKP`EN~NNjErDl{@TrC^jCl@jCt@bCp@bBtAhCxBrDn@bAjAdCn@dBn@dCt@`ErBbMl@fC|@jC~@vB`H`Mz@tBp@fC\\tBR`CDvBErN_@b^DdF`@jONbHfAr]^dGh@|FlMreA^bE`@jHNrFFlGA|GM`[HbGRpGXvE`@jEn@`F~@xFz@fEtAnFtBbHhDtJtZz}@lBzE|B|ExB|DrClExW|^|AbCjCdFbBzD|@~BhB|FbAdEbAfFv@lFl@~FlBpWZxCr@bF~@tEbAxDdAbD`BdEtBbEnFjKbB~D~@nChA`Ev@pDl@jDl@bF\\pEPfEFxDCtFOfFUjDsSleCiCpViBbQ_@~ESrGGxEDvGNpFVtE`@nEl@|Ele@vzCt@tDlAxEp@xBnAfDpAtCtQf^`BjDx@pB~@dCfBdGjA|Er@vD~@vGd@zE`@dHj@tTtBpz@VjFh@hFh@tDz@fE~@xDdAhDzAzD|AdD`BtC~B~DzEfIrKvQxc@|u@vAnCvAvCdBlE~ArEnAfEhAvExApHzX`{AxG~a@|v@b~E`A|EdAlExAzEvd@|uArBlFhCpFhChEnBjC~CpDxEnEthAjcApHxGbEdEdDzD|C`E|BfD`\\vi@lChFnCfGrBfFx^t_ApBrFfAvDjA~Ex@lEdK`p@p@vFb@dFXrFJnE@`DChFO`Fm@bM_JpcBQlFGnE?|DLrG\\rGh@bGxE`_@f@fF\\`GLlFBtG{C|kC@fGHhEVpF^vEh@vEt@~EtKlk@vAfI~@tGv@lHj@fH^lHRdGLvMrCldDTjKb@`Ld@dIr@zJhA~KfAdJxAzJbBnJfB|I`CzJ`CzIjCtI~C`J|C`Ixl@jvAbBtE`AfD|@tD~@zEt@fFr@xGZ`FPvFrApv@VjHb@~Ip@tJl@|GjBfPzEz`@~@xJh@xH|GvjAf@hFl@dEx@~DhApEtAhEnA~ChBrDtJbQzBxEvCtHnDxJ~DtL`EhNdBrHrAfIr@`GXnDVhGx@~YXfFl@|Gt@rF~@jFpArFnAlEtKn\\lAtE|@pEbPb~@lApI~J|t@pAbIbBpIpBpIrCfKrIhZrBhIpBrJvAvIvAnK~D~[dApH`BjJnBhJpBxH`BxFfCrHnCfHpd@|fA`CnGbBdFzYlbAdCjH|C|HvKxVhB`F~AhFt@vCnA`GfAnGt@~Fd@fF`@~GPfGhAts@\\`Kh@xIt@~IfArJrVbqBrAtIlBzJdBnHrCdKdCrHdDxIfTzi@fCjH|BvHpB|H~AhHdJve@vOpr@zDdQ`FpT~CzMfEnRx@`Fj@|EXbDVlFHrD@vFIxEY~Fa@~Eo@~Ey@zEmAjFwArEkObc@}AfFsApFaAzE{@zFw@|Gc@tF[pGOjH?bGHfGVbHbNhnB\\bIN`H@bIGhGSfH]vGo@bI{@rHcAvGeAvFyAnGaBdGwBtGmB~E_CjFkCfF_DnFi{@zrAyCnFsCbGaCdG}BxGiA|D{X|eAsAlEqB~FeCdGwCdG}CrFiDbFqb@dl@yCpE_DxFaDxGyiAjjC}AhE{A~EeAbEaAbFo@dEm@lFc@~FQ~DIjF?lGJhFpArWlKtrB`@dGx@xHfAtHxAbIxApGnBbHpB`Gbu@`sBjClIvB`I`BjHnAnGvAzIz@rGz@fIl@vHVlELhEFfHIlGUhF]fFk@dFu@`FeAhF_AlDiAzDyAfEgB`EuRb_@a[tl@yAjDeAzCcAvDy@~Do@fEc@hEU`EKvDArEJhF\\lF`@`Ep@`E|@hE|Snw@`B`GlApFhAzGn@zF^zEVhGfAh`@P|Dj@rHh@rEn@~DbA~EjArEjAvDjA~CfC|FbCnEhBrClUt\\vGvJnIxLnEzG~B~DjBnDdBzD`CfGpBdGhB|GrAjGdA~F~@vGl@zFh@pH\\`ILnG@vHK~GUzGo@vJiLp}AwFnv@e@lEw@hFo@vCsAdFi{@hhCyAhF{AxGiAnGy@pGk@`G]zFWzHGlGFtGNjG|IvhBtFpcAb@hJx@|NbDjq@pCdn@|Ux|ERfFPfJ?`J"
+              },
+              "startLocation": {
+                "latLng": {
+                  "latitude": 42.3466625,
+                  "longitude": -71.0619811
+                }
+              },
+              "endLocation": {
+                "latLng": {
+                  "latitude": 42.1615858,
+                  "longitude": -72.5394093
+                }
+              },
+              "navigationInstruction": {
+                "maneuver": "MERGE",
+                "instructions": "Merge onto I-90 W\nToll road"
+              }
+            },
+            {
+              "distanceMeters": 469,
+              "staticDuration": "30s",
+              "polyline": {
+                "encodedPolyline": "}ti`GhzvyLKRKbAQ|@a@bAa@h@uE`Fo@hAgAlDOt@UfB"
+              },
+              "startLocation": {
+                "latLng": {
+                  "latitude": 42.1615858,
+                  "longitude": -72.5394093
+                }
+              },
+              "endLocation": {
+                "latLng": {
+                  "latitude": 42.1639969,
+                  "longitude": -72.5438738
+                }
+              },
+              "navigationInstruction": {
+                "maneuver": "RAMP_RIGHT",
+                "instructions": "Take exit 51 for I-291 toward Springfield/Hartford"
+              }
+            },
+            {
+              "distanceMeters": 256,
+              "staticDuration": "33s",
+              "polyline": {
+                "encodedPolyline": "_dj`GdvwyL]pEGn@@tBFlAV|@Zx@JN"
+              },
+              "startLocation": {
+                "latLng": {
+                  "latitude": 42.1639969,
+                  "longitude": -72.5438738
+                }
+              },
+              "endLocation": {
+                "latLng": {
+                  "latitude": 42.1638194,
+                  "longitude": -72.54681719999999
+                }
+              }
+            },
+            {
+              "distanceMeters": 7238,
+              "staticDuration": "290s",
+              "polyline": {
+                "encodedPolyline": "{bj`GrhxyLl@f@hHx@fBXrGt@`El@tGv@p_@dFnE`@`EP`FA~QQbFCrCFhCRrB`@lA^rB`ApBtAdCvBpHbIbCvBrE`DrDrBdZxNtBnArB~AnAnAlA|ApAvBbAzBbBrEnEnNt@pCfA`DdB`FtBpFxBnEpS~]zBzEtAjDvAlErB~HjFrSfC|IpB`GnD`JhDnHhC`FfCfElDjFdB|B"
+              },
+              "startLocation": {
+                "latLng": {
+                  "latitude": 42.1638194,
+                  "longitude": -72.54681719999999
+                }
+              },
+              "endLocation": {
+                "latLng": {
+                  "latitude": 42.113726199999995,
+                  "longitude": -72.59202719999999
+                }
+              },
+              "navigationInstruction": {
+                "maneuver": "STRAIGHT",
+                "instructions": "Continue straight onto I-291 W"
+              }
+            },
+            {
+              "distanceMeters": 3938,
+              "staticDuration": "160s",
+              "polyline": {
+                "encodedPolyline": "yi``GdcazLD\\tJ~NxBvD~FlLzAfDtBbEj@z@t@z@nAbAxAr@lAX|@B|AMdAYhAu@v@w@lAeB~BeEnBcEpAgDp@_CLMtBsHfAuCxAwC|A_CxHaJ`F}FvDmF`GmJ`DuE|C{DxA{A~BkB|BmAhAe@hHsBvMuDdFsAjAc@"
+              },
+              "startLocation": {
+                "latLng": {
+                  "latitude": 42.113726199999995,
+                  "longitude": -72.59202719999999
+                }
+              },
+              "endLocation": {
+                "latLng": {
+                  "latitude": 42.0872092,
+                  "longitude": -72.5807727
+                }
+              },
+              "navigationInstruction": {
+                "maneuver": "RAMP_RIGHT",
+                "instructions": "Take exit 1A-2A to merge onto I-91 S"
+              }
+            },
+            {
+              "distanceMeters": 544,
+              "staticDuration": "29s",
+              "polyline": {
+                "encodedPolyline": "ad{_Gx|~yLRJnC]dFw@v@QpBs@N?bFwAj@A`@L`@\\LLF@"
+              },
+              "startLocation": {
+                "latLng": {
+                  "latitude": 42.0872092,
+                  "longitude": -72.5807727
+                }
+              },
+              "endLocation": {
+                "latLng": {
+                  "latitude": 42.082499999999996,
+                  "longitude": -72.5799012
+                }
+              },
+              "navigationInstruction": {
+                "maneuver": "RAMP_RIGHT",
+                "instructions": "Take exit 3 for US-5 N toward Agawam/MA-57"
+              }
+            },
+            {
+              "distanceMeters": 600,
+              "staticDuration": "34s",
+              "polyline": {
+                "encodedPolyline": "sfz_Gjw~yLp@|@Rl@rFdb@VbC"
+              },
+              "startLocation": {
+                "latLng": {
+                  "latitude": 42.082499999999996,
+                  "longitude": -72.5799012
+                }
+              },
+              "endLocation": {
+                "latLng": {
+                  "latitude": 42.0808132,
+                  "longitude": -72.5867317
+                }
+              }
+            },
+            {
+              "distanceMeters": 194,
+              "staticDuration": "16s",
+              "polyline": {
+                "encodedPolyline": "a|y_G`b`zLEPDfA@hFE\\Wf@c@d@"
+              },
+              "startLocation": {
+                "latLng": {
+                  "latitude": 42.0808132,
+                  "longitude": -72.5867317
+                }
+              },
+              "endLocation": {
+                "latLng": {
+                  "latitude": 42.0811284,
+                  "longitude": -72.5888908
+                }
+              },
+              "navigationInstruction": {
+                "maneuver": "RAMP_RIGHT",
+                "instructions": "Take the exit toward MA-57/Agawam/Southwick"
+              }
+            },
+            {
+              "distanceMeters": 839,
+              "staticDuration": "62s",
+              "polyline": {
+                "encodedPolyline": "a~y_Gpo`zLGDw@DOM_@}@SiAUmBAa@]sDAq@Lk@Vo@XYRGrC_@l@NzJ|GhFzC"
+              },
+              "startLocation": {
+                "latLng": {
+                  "latitude": 42.0811284,
+                  "longitude": -72.5888908
+                }
+              },
+              "endLocation": {
+                "latLng": {
+                  "latitude": 42.0776143,
+                  "longitude": -72.5878346
+                }
+              },
+              "navigationInstruction": {
+                "maneuver": "ROUNDABOUT_RIGHT",
+                "instructions": "At the traffic circle, take the 1st exit onto River Rd"
+              }
+            },
+            {
+              "distanceMeters": 53,
+              "staticDuration": "8s",
+              "polyline": {
+                "encodedPolyline": "ahy_G|h`zLW|B"
+              },
+              "startLocation": {
+                "latLng": {
+                  "latitude": 42.0776143,
+                  "longitude": -72.5878346
+                }
+              },
+              "endLocation": {
+                "latLng": {
+                  "latitude": 42.077728,
+                  "longitude": -72.588455
+                }
+              },
+              "navigationInstruction": {
+                "maneuver": "TURN_RIGHT",
+                "instructions": "Turn right onto N Alhambra Cir"
+              }
+            },
+            {
+              "distanceMeters": 303,
+              "staticDuration": "29s",
+              "polyline": {
+                "encodedPolyline": "yhy_Gzl`zLd@z@Hb@Av@}A~O"
+              },
+              "startLocation": {
+                "latLng": {
+                  "latitude": 42.077728,
+                  "longitude": -72.588455
+                }
+              },
+              "endLocation": {
+                "latLng": {
+                  "latitude": 42.077967,
+                  "longitude": -72.591943
+                }
+              },
+              "navigationInstruction": {
+                "maneuver": "TURN_LEFT",
+                "instructions": "Turn left onto S Alhambra Cir"
+              }
+            },
+            {
+              "distanceMeters": 667,
+              "staticDuration": "48s",
+              "polyline": {
+                "encodedPolyline": "ijy_GrbazLeAdL@x@tE~`@"
+              },
+              "startLocation": {
+                "latLng": {
+                  "latitude": 42.077967,
+                  "longitude": -72.591943
+                }
+              },
+              "endLocation": {
+                "latLng": {
+                  "latitude": 42.077242999999996,
+                  "longitude": -72.599784
+                }
+              },
+              "navigationInstruction": {
+                "maneuver": "STRAIGHT",
+                "instructions": "Continue straight onto Corey St"
+              }
+            },
+            {
+              "distanceMeters": 244,
+              "staticDuration": "42s",
+              "polyline": {
+                "encodedPolyline": "wey_GrsbzLvCm@f@U^_@P_@PgA^qC"
+              },
+              "startLocation": {
+                "latLng": {
+                  "latitude": 42.077242999999996,
+                  "longitude": -72.599784
+                }
+              },
+              "endLocation": {
+                "latLng": {
+                  "latitude": 42.0757792,
+                  "longitude": -72.5980335
+                }
+              },
+              "navigationInstruction": {
+                "maneuver": "TURN_LEFT",
+                "instructions": "Turn left onto Janelle Dr\nDestination will be on the right"
+              }
+            }
+          ]
+        }
+      ],
+      "distanceMeters": 150321,
+      "duration": "5303s",
+      "polyline": {
+        "encodedPolyline": "mrlaGtavpLPLBTm@nDDVNL|Af@HPAVKl@c@f@EJwEsAaEeBqFmC}@U_Bo@s@i@{BsAmB{Ay@]u@KyFOEBoB[_@S_@]Ui@Iq@?o@Ju@Re@\\_@l@Wr@Gf@Bh@Nj@b@h@x@Vx@PhADfAC`JEdCDTa@zDmCjQ[dEo@tJGrCA~KB~N`@nl@P~e@GrCYvEIxD@xp@@jISzE]lDmEd`@e@pCo@pC_AtCeAdCsDdIaAjCsAzEuAlDkGxNw@tAaAlAiA|@iCrA{BfA_Ar@eAnAm@`Ao@xAc@~Ai@tCUzBQzD?nDN`D`@|CjCpM\\nCRvCDxCEjDSjDiEtn@wC~d@IrD?tDJrDx@tMNjFxAnwA?lI[hX_@`SIjG?lEF~CZzEj@nFtE|]dCjV|D`[jArH|Lfo@rAfIdA~Hv@tHz@fKrCta@b@hEl@pE|DhYp@fGf@dHvBrg@f@rIz@dKP`EN~NNjErDl{@TrC^jCl@jCt@bCp@bBtAhCxBrDn@bAjAdCn@dBn@dCt@`ErBbMl@fC|@jC~@vB`H`Mz@tBp@fC\\tBR`CDvBErN_@b^DdF`@jONbHfAr]^dGh@|FlMreA^bE`@jHNrFFlGA|GM`[HbGRpGXvE`@jEn@`F~@xFz@fEtAnFtBbHhDtJtZz}@lBzE|B|ExB|DrClExW|^|AbCjCdFbBzD|@~BhB|FbAdEbAfFv@lFl@~FlBpWZxCr@bF~@tEbAxDdAbD`BdEtBbEnFjKbB~D~@nChA`Ev@pDl@jDl@bF\\pEPfEFxDCtFOfFUjDsSleCiCpViBbQ_@~ESrGGxEDvGNpFVtE`@nEl@|Ele@vzCt@tDlAxEp@xBnAfDpAtCtQf^`BjDx@pB~@dCfBdGjA|Er@vD~@vGd@zE`@dHj@tTtBpz@VjFh@hFh@tDz@fE~@xDdAhDzAzD|AdD`BtC~B~DzEfIrKvQxc@|u@vAnCvAvCdBlE~ArEnAfEhAvExApHzX`{AxG~a@|v@b~E`A|EdAlExAzEvd@|uArBlFhCpFhChEnBjC~CpDxEnEthAjcApHxGbEdEdDzD|C`E|BfD`\\vi@lChFnCfGrBfFx^t_ApBrFfAvDjA~Ex@lEdK`p@p@vFb@dFXrFJnE@`DChFO`Fm@bM_JpcBQlFGnE?|DLrG\\rGh@bGxE`_@f@fF\\`GLlFBtG{C|kC@fGHhEVpF^vEh@vEt@~EtKlk@vAfI~@tGv@lHj@fH^lHRdGLvMrCldDTjKb@`Ld@dIr@zJhA~KfAdJxAzJbBnJfB|I`CzJ`CzIjCtI~C`J|C`Ixl@jvAbBtE`AfD|@tD~@zEt@fFr@xGZ`FPvFrApv@VjHb@~Ip@tJl@|GjBfPzEz`@~@xJh@xH|GvjAf@hFl@dEx@~DhApEtAhEnA~ChBrDtJbQzBxEvCtHnDxJ~DtL`EhNdBrHrAfIr@`GXnDVhGx@~YXfFl@|Gt@rF~@jFpArFnAlEtKn\\lAtE|@pEbPb~@lApI~J|t@pAbIbBpIpBpIrCfKrIhZrBhIpBrJvAvIvAnK~D~[dApH`BjJnBhJpBxH`BxFfCrHnCfHpd@|fA`CnGbBdFzYlbAdCjH|C|HvKxVhB`F~AhFt@vCnA`GfAnGt@~Fd@fF`@~GPfGhAts@\\`Kh@xIt@~IfArJrVbqBrAtIlBzJdBnHrCdKdCrHdDxIfTzi@fCjH|BvHpB|H~AhHdJve@vOpr@zDdQ`FpT~CzMfEnRx@`Fj@|EXbDVlFHrD@vFIxEY~Fa@~Eo@~Ey@zEmAjFwArEkObc@}AfFsApFaAzE{@zFw@|Gc@tF[pGOjH?bGHfGVbHbNhnB\\bIN`H@bIGhGSfH]vGo@bI{@rHcAvGeAvFyAnGaBdGwBtGmB~E_CjFkCfF_DnFi{@zrAyCnFsCbGaCdG}BxGiA|D{X|eAsAlEqB~FeCdGwCdG}CrFiDbFqb@dl@yCpE_DxFaDxGyiAjjC}AhE{A~EeAbEaAbFo@dEm@lFc@~FQ~DIjF?lGJhFpArWlKtrB`@dGx@xHfAtHxAbIxApGnBbHpB`Gbu@`sBjClIvB`I`BjHnAnGvAzIz@rGz@fIl@vHVlELhEFfHIlGUhF]fFk@dFu@`FeAhF_AlDiAzDyAfEgB`EuRb_@a[tl@yAjDeAzCcAvDy@~Do@fEc@hEU`EKvDArEJhF\\lF`@`Ep@`E|@hE|Snw@`B`GlApFhAzGn@zF^zEVhGfAh`@P|Dj@rHh@rEn@~DbA~EjArEjAvDjA~CfC|FbCnEhBrClUt\\vGvJnIxLnEzG~B~DjBnDdBzD`CfGpBdGhB|GrAjGdA~F~@vGl@zFh@pH\\`ILnG@vHK~GUzGo@vJiLp}AwFnv@e@lEw@hFo@vCsAdFi{@hhCyAhF{AxGiAnGy@pGk@`G]zFWzHGlGFtGNjG|IvhBtFpcAb@hJx@|NbDjq@pCdn@|Ux|ERfFPfJ?`JKRKbAQ|@a@bAa@h@uE`Fo@hAgAlDOt@UfB]pEGn@@tBFlAV|@Zx@JNl@f@hHx@fBXrGt@`El@tGv@p_@dFnE`@`EP`FA~QQbFCrCFhCRrB`@lA^rB`ApBtAdCvBpHbIbCvBrE`DrDrBdZxNtBnArB~AnAnAlA|ApAvBbAzBbBrEnEnNt@pCfA`DdB`FtBpFxBnEpS~]zBzEtAjDvAlErB~HjFrSfC|IpB`GnD`JhDnHhC`FfCfElDjFdB|BD\\tJ~NxBvD~FlLzAfDtBbEj@z@t@z@nAbAxAr@lAX|@B|AMdAYhAu@v@w@lAeB~BeEnBcEpAgDp@_CLMtBsHfAuCxAwC|A_CxHaJ`F}FvDmF`GmJ`DuE|C{DxA{A~BkB|BmAhAe@hHsBvMuDdFsAjAc@RJnC]dFw@v@QpBs@N?bFwAj@A`@L`@\\LLF@p@|@Rl@rFdb@VbCEPDfA@hFE\\Wf@c@d@GDw@DOM_@}@SiAUmBAa@]sDAq@Lk@Vo@XYRGrC_@l@NzJ|GhFzCW|Bd@z@Hb@Av@}A~OeAdL@x@tE~`@vCm@f@U^_@P_@PgA^qC"
+      },
+      "routeLabels": [
+        "DEFAULT_ROUTE"
+      ]
+    },
+    {
+      "legs": [
+        {
+          "distanceMeters": 157608,
+          "duration": "6848s",
+          "staticDuration": "6895s",
+          "polyline": {
+            "encodedPolyline": "mrlaGtavpLPLBTm@nDDVNL|Af@HPAVKl@c@f@EJwEsAaEeBqFmC}@U_Bo@s@i@{BsAmB{Ay@]u@KyFOEBoB[_@S_@]Ui@Iq@?o@Ju@Re@\\_@l@Wr@Gf@Bh@Nj@b@h@x@Vx@PhADfAC`JEdCDTa@zDmCjQ[dEo@tJGrCA~KB~N`@nl@P~e@GrCYvEIxD@xp@@jISzE]lDmEd`@e@pCo@pC_AtCeAdCsDdIaAjCsAzEuAlDkGxNw@tAaAlAiA|@iCrA{BfA_Ar@eAnAm@`Ao@xAc@~Ai@tCUzBQzD?nDN`D`@|CjCpM\\nCRvCDxCEjDSjDiEtn@wC~d@IrD?tDJrDx@tMNjFxAnwA?lI[hX_@`SIjG?lEF~CZzEj@nFtE|]dCjV|D`[jArH|Lfo@rAfIdA~Hv@tHz@fKrCta@b@hEl@pE|DhYp@fGf@dHvBrg@f@rIz@dKP`EN~NNjErDl{@TrC^jCl@jCt@bCp@bBtAhCxBrDn@bAjAdCn@dBn@dCt@`ErBbMl@fC|@jC~@vB`H`Mz@tBp@fC\\tBR`CDvBErN_@b^DdF`@jONbHfAr]^dGh@|FlMreA^bE`@jHNrFFlGA|GM`[HbGRpGXvE`@jEn@`F~@xFz@fEtAnFtBbHhDtJtZz}@lBzE|B|ExB|DrClExW|^|AbCjCdFbBzD|@~BhB|FbAdEbAfFv@lFl@~FlBpWZxCr@bF~@tEbAxDdAbD`BdEtBbEnFjKbB~D~@nChA`Ev@pDl@jDl@bF\\pEPfEFxDCtFOfFUjDsSleCiCpViBbQ_@~ESrGGxEDvGNpFVtE`@nEl@|Ele@vzCt@tDlAxEp@xBnAfDpAtCtQf^`BjDx@pB~@dCfBdGjA|Er@vD~@vGd@zE`@dHj@tTtBpz@VjFh@hFh@tDz@fE~@xDdAhDzAzD|AdD`BtC~B~DzEfIrKvQxc@|u@vAnCvAvCdBlE~ArEnAfEhAvExApHzX`{AxG~a@|v@b~E`A|EdAlExAzEvd@|uArBlFhCpFhChEnBjC~CpDxEnEthAjcApHxGbEdEdDzD|C`E|BfD`\\vi@lChFnCfGrBfFx^t_ApBrFfAvDjA~Ex@lEdK`p@p@vFb@dFXrFJnE@`DChFO`Fm@bM_JpcBQlFGnE?|DLrG\\rGh@bGxE`_@f@fF\\`GLlFBtG{C|kC@fGHhEVpF^vEh@vEt@~EtKlk@vAfI~@tGv@lHj@fH^lHRdGLvMrCldDTjKb@`Ld@dIr@zJhA~KfAdJxAzJbBnJfB|I`CzJ`CzIjCtI~C`J|C`Ixl@jvAbBtE`AfD|@tD~@zEt@fFr@xGZ`FPvFrApv@VjHb@~Ip@tJl@|GjBfPzEz`@~@xJh@xH|GvjAf@hFl@dEx@~DhApEtAhEnA~ChBrDtJbQzBxEvCtHnDxJ~DtL`EhNdBrHrAfIr@`GXnDVhGx@~YXfFl@|Gt@rF~@jFpArFnAlEtKn\\lAtE|@pEbPb~@lApI~J|t@pAbIbBpIpBpIrCfKrIhZrBhIpBrJvAvIvAnK~D~[dApH`BjJnBhJpBxH`BxFfCrHnCfHpd@|fA`CnGbBdFzYlbAdCjH|C|HvKxVhB`F~AhFt@vCnA`GfAnGt@~Fd@fF`@~GPfGhAts@\\`Kh@xIt@~IfArJrVbqBrAtIlBzJdBnHrCdKdCrHdDxIfTzi@fCjH|BvHpB|H~AhHdJve@vOpr@zDdQ`FpT~CzMEf@XnCJrCA|Ac@rHIlB?lBJzBTpBb@nBf@~Av@~A~@vAtEjFtK|LdMrNf@n@fJjKxCzC~BrBzCnBzL|GnBtA|@x@dBjBnAfBjBhDjHzNjApBnBnClAtAv@v@nAdAlBpAnBfAdC`ArHxBvWrHnE`Ax]rGlEhAtEvAbG`C~EdCdEfC`EtClg@na@vEdDdEbClGzCdHjC|JlDnElB`FfC|FtDpEnDvW|UfEjDrGtEpI`GpT~N~e@`ZxGpEpInGdKpI~EnDjFbDvDrB|E|BlHpCjEdBlExBvDvB|DnCrEpDdk@ze@lCxBnd@``@zA`BnAhBzApC|FlLbGvK|EhIhZzf@xApBdBlBdBzAxCtBtd@dZrJxFpUdMpU|KxPdIdFpCtFnDnMlJhEdD|DrCxd@|\\`JdG|DdCvDvBbM|GlGdDJX~ArAbFlHx@hAp@d@PHV?X`BhC|K|BvGrFjNh@z@xHhJ`AzApCfHpArCrApB`C`DvDzE~EhHz@~AVr@lAnEXv@~EbJb@bAVz@Ll@J~@BpAI~LIbHDxEF`H@`CFbBTpBtBtIh@tCt@dF\\|CNjC@zBIjBYlB]pB[tCiAbVCbCBxBNnCVtBp@dDrFpPXxAN~AF|AC~ACj@}Dt\\U`CQxDCtBYzm@BfDNtBLfA`@rBj@jBnRhd@fCrGxAnEtC`KbB`G|@bClArClCrExJnP`ApA|DlDbA~@j@x@Tp@J`@JdA@bAGn@St@_AxBeAxDwHbZcDpLkG|VeBjH@FaB`GoAjEOr@AdAFdAXnAzAhERhAFpA?bG@vALhCF|@ZjCl@vDz@dD`FfOn@hCNv@Fz@JrFDv@XjBPn@|@jCJ~A@b@L~AEV@dA|@b@BTBBNdADHXlFj@|IZxDG~@Oh@Uv@y@jAkEtEmBpAk@ZuAh@yAd@sBt@eBZaCZsAd@m@j@Y\\u@jAwA|ASZ{@tCg@bA]b@{AhAaC|AmExB{@t@_AzAyApC}C|Ea@hAQ`AMbBu@hMYbI]nMObBoAzH[jA}@hByA`C{B`Dw@v@eHpD{A~@eA`AeAjAwA`ByAhBm@bAWp@]pASxA?bANrBUfASLIVAZFXNNJDd@n@dDbQ`AjEvCjLb@nBd@jDPxBJnCS`PYrDcA~I{@xHg@xFO`CS`GI~DBxIA~AIbBO`Be@lCuCxO{@|F_@jB_BhFgDlIy@~BeBzF{CpIy@~CoAvGgApH_@lDKjB_@`IK~BGhCQxLY~Fo@xKwAnRuAdN_@pCg@rBs@hCqCxNi@lDWnCe@xIWzGQpGIdG?lDIzA_FzXs@fDkDzMa@rCcAhLs@zI]dH_@|I[~EcAhL_@fGQxCyFt@kMxAeEv@gFfAsIpBcARy@\\eBrAyLfKqDvC_`@hXyGnEiHpFuElDeE|CeAl@o@XiBb@yE~@_B~@qAfAcBxBwLlQwAjB_GvGgPfQo@l@YRaBj@iKfBsBd@kAh@gAp@qAlAuBlCcAtA{@v@aGbD{@V_Ff@wEb@gBZgCz@w]~MaAp@s@v@g@v@Yl@eFbOy@hBUb@{@jAoU|W}AvAkKrH_DhCqBbCmC|D{[lh@eBzC{AfDgBjFaAnEaIzf@{@bEgEtPaC`IkJ|X}@dDwFzUa@xAm@dB{@bByYre@_JlN_BfCcJfOOLEVDVPJLXHVf@p@f@rBlFdShQvm@f@vBHp@dBlZ@~@YnE@rBH|AVpB~@jETv@Xd@|@fAx@x@bB|AFh@E`@I^cHvE_@\\q@b@b@pAgBx[ChC?jDKxC[`Dk@zCkDtLoAbEs@|A}@zAcAnAw@v@sA~@_Ad@sBz@wA|@k@d@yAdBq@fAk@lAs@nBi@`C_@hCQfDAfB?t@LdDhH~~A?bC]fZGt@KfAcBD{DTgEf@gC`@aLfCo@TuA|@kGnEkBv@_Cb@qDf@o@Ek@Ug@g@}@{A_@@_AkAgHwFmAq@qAa@cEm@EOmBi@qBWyDm@cAUwBO_@N[ZS`@Il@@l@Ll@HN@Hp@|@Rl@rFdb@VbCEPDfA@hFE\\Wf@c@d@GDw@DOM_@}@SiAUmBAa@]sDAq@Lk@Vo@XYRGrC_@l@NzJ|GhFzCW|Bd@z@Hb@Av@}A~OeAdL@x@tE~`@vCm@f@U^_@P_@PgA^qC"
+          },
+          "startLocation": {
+            "latLng": {
+              "latitude": 42.340386699999996,
+              "longitude": -71.0609095
+            }
+          },
+          "endLocation": {
+            "latLng": {
+              "latitude": 42.0757792,
+              "longitude": -72.5980335
+            }
+          },
+          "steps": [
+            {
+              "distanceMeters": 108,
+              "staticDuration": "28s",
+              "polyline": {
+                "encodedPolyline": "mrlaGtavpLPLBTm@nDDV"
+              },
+              "startLocation": {
+                "latLng": {
+                  "latitude": 42.340386699999996,
+                  "longitude": -71.0609095
+                }
+              },
+              "endLocation": {
+                "latLng": {
+                  "latitude": 42.3404753,
+                  "longitude": -71.0620871
+                }
+              }
+            },
+            {
+              "distanceMeters": 105,
+              "staticDuration": "34s",
+              "polyline": {
+                "encodedPolyline": "_slaG`ivpLNL|Af@HPAVKl@"
+              },
+              "startLocation": {
+                "latLng": {
+                  "latitude": 42.3404753,
+                  "longitude": -71.0620871
+                }
+              },
+              "endLocation": {
+                "latLng": {
+                  "latitude": 42.33995300000001,
+                  "longitude": -71.0627957
+                }
+              },
+              "navigationInstruction": {
+                "maneuver": "TURN_LEFT",
+                "instructions": "Turn left toward Frontage Rd"
+              }
+            },
+            {
+              "distanceMeters": 420,
+              "staticDuration": "74s",
+              "polyline": {
+                "encodedPolyline": "uolaGnmvpLc@f@EJwEsAaEeBqFmC"
+              },
+              "startLocation": {
+                "latLng": {
+                  "latitude": 42.33995300000001,
+                  "longitude": -71.0627957
+                }
+              },
+              "endLocation": {
+                "latLng": {
+                  "latitude": 42.3434245,
+                  "longitude": -71.0614159
+                }
+              },
+              "navigationInstruction": {
+                "maneuver": "TURN_RIGHT",
+                "instructions": "Turn right onto Frontage Rd"
+              }
+            },
+            {
+              "distanceMeters": 1179,
+              "staticDuration": "108s",
+              "polyline": {
+                "encodedPolyline": "kemaGzdvpL}@U_Bo@s@i@{BsAmB{Ay@]u@KyFOEBoB[_@S_@]Ui@Iq@?o@Ju@Re@\\_@l@Wr@Gf@Bh@Nj@b@h@x@Vx@PhADfAC`JEdCDT"
+              },
+              "startLocation": {
+                "latLng": {
+                  "latitude": 42.3434245,
+                  "longitude": -71.0614159
+                }
+              },
+              "endLocation": {
+                "latLng": {
+                  "latitude": 42.3466625,
+                  "longitude": -71.0619811
+                }
+              },
+              "navigationInstruction": {
+                "maneuver": "TURN_SLIGHT_LEFT",
+                "instructions": "Slight left to stay on Frontage Rd"
+              }
+            },
+            {
+              "distanceMeters": 89006,
+              "staticDuration": "3103s",
+              "polyline": {
+                "encodedPolyline": "symaGjhvpLa@zDmCjQ[dEo@tJGrCA~KB~N`@nl@P~e@GrCYvEIxD@xp@@jISzE]lDmEd`@e@pCo@pC_AtCeAdCsDdIaAjCsAzEuAlDkGxNw@tAaAlAiA|@iCrA{BfA_Ar@eAnAm@`Ao@xAc@~Ai@tCUzBQzD?nDN`D`@|CjCpM\\nCRvCDxCEjDSjDiEtn@wC~d@IrD?tDJrDx@tMNjFxAnwA?lI[hX_@`SIjG?lEF~CZzEj@nFtE|]dCjV|D`[jArH|Lfo@rAfIdA~Hv@tHz@fKrCta@b@hEl@pE|DhYp@fGf@dHvBrg@f@rIz@dKP`EN~NNjErDl{@TrC^jCl@jCt@bCp@bBtAhCxBrDn@bAjAdCn@dBn@dCt@`ErBbMl@fC|@jC~@vB`H`Mz@tBp@fC\\tBR`CDvBErN_@b^DdF`@jONbHfAr]^dGh@|FlMreA^bE`@jHNrFFlGA|GM`[HbGRpGXvE`@jEn@`F~@xFz@fEtAnFtBbHhDtJtZz}@lBzE|B|ExB|DrClExW|^|AbCjCdFbBzD|@~BhB|FbAdEbAfFv@lFl@~FlBpWZxCr@bF~@tEbAxDdAbD`BdEtBbEnFjKbB~D~@nChA`Ev@pDl@jDl@bF\\pEPfEFxDCtFOfFUjDsSleCiCpViBbQ_@~ESrGGxEDvGNpFVtE`@nEl@|Ele@vzCt@tDlAxEp@xBnAfDpAtCtQf^`BjDx@pB~@dCfBdGjA|Er@vD~@vGd@zE`@dHj@tTtBpz@VjFh@hFh@tDz@fE~@xDdAhDzAzD|AdD`BtC~B~DzEfIrKvQxc@|u@vAnCvAvCdBlE~ArEnAfEhAvExApHzX`{AxG~a@|v@b~E`A|EdAlExAzEvd@|uArBlFhCpFhChEnBjC~CpDxEnEthAjcApHxGbEdEdDzD|C`E|BfD`\\vi@lChFnCfGrBfFx^t_ApBrFfAvDjA~Ex@lEdK`p@p@vFb@dFXrFJnE@`DChFO`Fm@bM_JpcBQlFGnE?|DLrG\\rGh@bGxE`_@f@fF\\`GLlFBtG{C|kC@fGHhEVpF^vEh@vEt@~EtKlk@vAfI~@tGv@lHj@fH^lHRdGLvMrCldDTjKb@`Ld@dIr@zJhA~KfAdJxAzJbBnJfB|I`CzJ`CzIjCtI~C`J|C`Ixl@jvAbBtE`AfD|@tD~@zEt@fFr@xGZ`FPvFrApv@VjHb@~Ip@tJl@|GjBfPzEz`@~@xJh@xH|GvjAf@hFl@dEx@~DhApEtAhEnA~ChBrDtJbQzBxEvCtHnDxJ~DtL`EhNdBrHrAfIr@`GXnDVhGx@~YXfFl@|Gt@rF~@jFpArFnAlEtKn\\lAtE|@pEbPb~@lApI~J|t@pAbIbBpIpBpIrCfKrIhZrBhIpBrJvAvIvAnK~D~[dApH`BjJnBhJpBxH`BxFfCrHnCfHpd@|fA`CnGbBdFzYlbAdCjH|C|HvKxVhB`F~AhFt@vCnA`GfAnGt@~Fd@fF`@~GPfGhAts@\\`Kh@xIt@~IfArJrVbqBrAtIlBzJdBnHrCdKdCrHdDxIfTzi@fCjH|BvHpB|H~AhHdJve@vOpr@zDdQ`FpT~CzM"
+              },
+              "startLocation": {
+                "latLng": {
+                  "latitude": 42.3466625,
+                  "longitude": -71.0619811
+                }
+              },
+              "endLocation": {
+                "latLng": {
+                  "latitude": 42.1314515,
+                  "longitude": -72.0541305
+                }
+              },
+              "navigationInstruction": {
+                "maneuver": "MERGE",
+                "instructions": "Merge onto I-90 W\nToll road"
+              }
+            },
+            {
+              "distanceMeters": 1141,
+              "staticDuration": "47s",
+              "polyline": {
+                "encodedPolyline": "qxc`GhaxvLEf@XnCJrCA|Ac@rHIlB?lBJzBTpBb@nBf@~Av@~A~@vAtEjFtK|L"
+              },
+              "startLocation": {
+                "latLng": {
+                  "latitude": 42.1314515,
+                  "longitude": -72.0541305
+                }
+              },
+              "endLocation": {
+                "latLng": {
+                  "latitude": 42.127275999999995,
+                  "longitude": -72.0654587
+                }
+              },
+              "navigationInstruction": {
+                "maneuver": "RAMP_RIGHT",
+                "instructions": "Take exit 78 for I-84 toward Hartford Connecticut/N.Y.City\nToll road"
+              }
+            },
+            {
+              "distanceMeters": 19344,
+              "staticDuration": "643s",
+              "polyline": {
+                "encodedPolyline": "o~b`GbhzvLdMrNf@n@fJjKxCzC~BrBzCnBzL|GnBtA|@x@dBjBnAfBjBhDjHzNjApBnBnClAtAv@v@nAdAlBpAnBfAdC`ArHxBvWrHnE`Ax]rGlEhAtEvAbG`C~EdCdEfC`EtClg@na@vEdDdEbClGzCdHjC|JlDnElB`FfC|FtDpEnDvW|UfEjDrGtEpI`GpT~N~e@`ZxGpEpInGdKpI~EnDjFbDvDrB|E|BlHpCjEdBlExBvDvB|DnCrEpDdk@ze@lCxBnd@``@zA`BnAhBzApC|FlLbGvK|EhIhZzf@xApBdBlBdBzAxCtBtd@dZrJxFpUdMpU|KxPdIdFpCtFnDnMlJhEdD|DrCxd@|\\`JdG|DdCvDvBbM|GlGdD"
+              },
+              "startLocation": {
+                "latLng": {
+                  "latitude": 42.127275999999995,
+                  "longitude": -72.0654587
+                }
+              },
+              "endLocation": {
+                "latLng": {
+                  "latitude": 41.9783766,
+                  "longitude": -72.18126939999999
+                }
+              }
+            },
+            {
+              "distanceMeters": 354,
+              "staticDuration": "25s",
+              "polyline": {
+                "encodedPolyline": "{{e_G|{pwLJX~ArAbFlHx@hAp@d@PHV?"
+              },
+              "startLocation": {
+                "latLng": {
+                  "latitude": 41.9783766,
+                  "longitude": -72.18126939999999
+                }
+              },
+              "endLocation": {
+                "latLng": {
+                  "latitude": 41.9759533,
+                  "longitude": -72.18393879999999
+                }
+              },
+              "navigationInstruction": {
+                "maneuver": "RAMP_RIGHT",
+                "instructions": "Take exit 73 for CT-190 toward Stafford Springs"
+              }
+            },
+            {
+              "distanceMeters": 11126,
+              "staticDuration": "598s",
+              "polyline": {
+                "encodedPolyline": "ule_GrlqwLX`BhC|K|BvGrFjNh@z@xHhJ`AzApCfHpArCrApB`C`DvDzE~EhHz@~AVr@lAnEXv@~EbJb@bAVz@Ll@J~@BpAI~LIbHDxEF`H@`CFbBTpBtBtIh@tCt@dF\\|CNjC@zBIjBYlB]pB[tCiAbVCbCBxBNnCVtBp@dDrFpPXxAN~AF|AC~ACj@}Dt\\U`CQxDCtBYzm@BfDNtBLfA`@rBj@jBnRhd@fCrGxAnEtC`KbB`G|@bClArClCrExJnP`ApA|DlDbA~@j@x@Tp@J`@JdA@bAGn@St@_AxBeAxDwHbZcDpLkG|VeBjH@FaB`GoAjEOr@AdAFdAXnAzAhERhAFpA?bG@vALhCF|@ZjCl@vDz@dD`FfOn@hCNv@Fz@JrFDv@XjBPn@|@jCJ~A@b@L~AEV@dA|@b@"
+              },
+              "startLocation": {
+                "latLng": {
+                  "latitude": 41.9759533,
+                  "longitude": -72.18393879999999
+                }
+              },
+              "endLocation": {
+                "latLng": {
+                  "latitude": 41.953704099999996,
+                  "longitude": -72.3030935
+                }
+              },
+              "navigationInstruction": {
+                "maneuver": "TURN_RIGHT",
+                "instructions": "Turn right onto CT-190 W"
+              }
+            },
+            {
+              "distanceMeters": 1651,
+              "staticDuration": "139s",
+              "polyline": {
+                "encodedPolyline": "saa_GhuhxLBTBBNdADHXlFj@|IZxDG~@Oh@Uv@y@jAkEtEmBpAk@ZuAh@yAd@sBt@eBZaCZsAd@m@j@Y\\u@jAwA|ASZ{@tCg@bA]b@{AhAaC|AmExB"
+              },
+              "startLocation": {
+                "latLng": {
+                  "latitude": 41.953704099999996,
+                  "longitude": -72.3030935
+                }
+              },
+              "endLocation": {
+                "latLng": {
+                  "latitude": 41.9623692,
+                  "longitude": -72.31551739999999
+                }
+              },
+              "navigationInstruction": {
+                "maneuver": "ROUNDABOUT_RIGHT",
+                "instructions": "At the traffic circle, take the 1st exit onto Main St"
+              }
+            },
+            {
+              "distanceMeters": 2116,
+              "staticDuration": "148s",
+              "polyline": {
+                "encodedPolyline": "ywb_G~bkxL{@t@_AzAyApC}C|Ea@hAQ`AMbBu@hMYbI]nMObBoAzH[jA}@hByA`C{B`Dw@v@eHpD{A~@eA`AeAjAwA`ByAhBm@bAWp@]pASxA?bANrBUfA"
+              },
+              "startLocation": {
+                "latLng": {
+                  "latitude": 41.9623692,
+                  "longitude": -72.31551739999999
+                }
+              },
+              "endLocation": {
+                "latLng": {
+                  "latitude": 41.9715424,
+                  "longitude": -72.3359179
+                }
+              },
+              "navigationInstruction": {
+                "maneuver": "STRAIGHT",
+                "instructions": "Continue straight onto W Stafford Rd"
+              }
+            },
+            {
+              "distanceMeters": 7683,
+              "staticDuration": "414s",
+              "polyline": {
+                "encodedPolyline": "cqd_GnboxLSLIVAZFXNNJDd@n@dDbQ`AjEvCjLb@nBd@jDPxBJnCS`PYrDcA~I{@xHg@xFO`CS`GI~DBxIA~AIbBO`Be@lCuCxO{@|F_@jB_BhFgDlIy@~BeBzF{CpIy@~CoAvGgApH_@lDKjB_@`IK~BGhCQxLY~Fo@xKwAnRuAdN_@pCg@rBs@hCqCxNi@lDWnCe@xIWzGQpGIdG?lDIzA_FzXs@fDkDzMa@rCcAhLs@zI]dH_@|I[~EcAhL_@fGQxC"
+              },
+              "startLocation": {
+                "latLng": {
+                  "latitude": 41.9715424,
+                  "longitude": -72.3359179
+                }
+              },
+              "endLocation": {
+                "latLng": {
+                  "latitude": 41.9836952,
+                  "longitude": -72.4244703
+                }
+              },
+              "navigationInstruction": {
+                "maneuver": "ROUNDABOUT_RIGHT",
+                "instructions": "At the traffic circle, take the 2nd exit onto CT-190 W/W Stafford Rd\nContinue to follow CT-190 W"
+              }
+            },
+            {
+              "distanceMeters": 4187,
+              "staticDuration": "243s",
+              "polyline": {
+                "encodedPolyline": "c}f_G|k`yLyFt@kMxAeEv@gFfAsIpBcARy@\\eBrAyLfKqDvC_`@hXyGnEiHpFuElDeE|CeAl@o@XiBb@yE~@_B~@qAfAcBxBwLlQwAjB_GvGgPfQo@l@YR"
+              },
+              "startLocation": {
+                "latLng": {
+                  "latitude": 41.9836952,
+                  "longitude": -72.4244703
+                }
+              },
+              "endLocation": {
+                "latLng": {
+                  "latitude": 42.0162322,
+                  "longitude": -72.448043
+                }
+              },
+              "navigationInstruction": {
+                "maneuver": "TURN_RIGHT",
+                "instructions": "Turn right onto Turnpike Rd"
+              }
+            },
+            {
+              "distanceMeters": 2292,
+              "staticDuration": "125s",
+              "polyline": {
+                "encodedPolyline": "mhm_Gf_eyLaBj@iKfBsBd@kAh@gAp@qAlAuBlCcAtA{@v@aGbD{@V_Ff@wEb@gBZgCz@w]~MaAp@s@v@g@v@Yl@eFbOy@hBUb@"
+              },
+              "startLocation": {
+                "latLng": {
+                  "latitude": 42.0162322,
+                  "longitude": -72.448043
+                }
+              },
+              "endLocation": {
+                "latLng": {
+                  "latitude": 42.0340275,
+                  "longitude": -72.45972689999999
+                }
+              }
+            },
+            {
+              "distanceMeters": 5668,
+              "staticDuration": "325s",
+              "polyline": {
+                "encodedPolyline": "uwp_GhhgyL{@jAoU|W}AvAkKrH_DhCqBbCmC|D{[lh@eBzC{AfDgBjFaAnEaIzf@{@bEgEtPaC`IkJ|X}@dDwFzUa@xAm@dB{@bByYre@_JlN_BfCcJfO"
+              },
+              "startLocation": {
+                "latLng": {
+                  "latitude": 42.0340275,
+                  "longitude": -72.45972689999999
+                }
+              },
+              "endLocation": {
+                "latLng": {
+                  "latitude": 42.064837999999995,
+                  "longitude": -72.5126841
+                }
+              }
+            },
+            {
+              "distanceMeters": 58,
+              "staticDuration": "11s",
+              "polyline": {
+                "encodedPolyline": "gxv_GfsqyLOLEVDVPJLX"
+              },
+              "startLocation": {
+                "latLng": {
+                  "latitude": 42.064837999999995,
+                  "longitude": -72.5126841
+                }
+              },
+              "endLocation": {
+                "latLng": {
+                  "latitude": 42.0647583,
+                  "longitude": -72.5131838
+                }
+              },
+              "navigationInstruction": {
+                "maneuver": "ROUNDABOUT_RIGHT",
+                "instructions": "At the traffic circle, take the 1st exit onto MA-220 W"
+              }
+            },
+            {
+              "distanceMeters": 2075,
+              "staticDuration": "147s",
+              "polyline": {
+                "encodedPolyline": "wwv_GjvqyLHVf@p@f@rBlFdShQvm@f@vBHp@dBlZ@~@YnE@rBH|AVpB~@jETv@Xd@|@fAx@x@bB|A"
+              },
+              "startLocation": {
+                "latLng": {
+                  "latitude": 42.0647583,
+                  "longitude": -72.5131838
+                }
+              },
+              "endLocation": {
+                "latLng": {
+                  "latitude": 42.0577074,
+                  "longitude": -72.53567110000002
+                }
+              },
+              "navigationInstruction": {
+                "maneuver": "TURN_SLIGHT_RIGHT",
+                "instructions": "Slight right onto Maple St"
+              }
+            },
+            {
+              "distanceMeters": 284,
+              "staticDuration": "29s",
+              "polyline": {
+                "encodedPolyline": "uku_G|bvyLFh@E`@I^cHvE_@\\q@b@"
+              },
+              "startLocation": {
+                "latLng": {
+                  "latitude": 42.0577074,
+                  "longitude": -72.53567110000002
+                }
+              },
+              "endLocation": {
+                "latLng": {
+                  "latitude": 42.0596166,
+                  "longitude": -72.5376168
+                }
+              },
+              "navigationInstruction": {
+                "maneuver": "TURN_RIGHT",
+                "instructions": "Turn right onto Dwight Rd"
+              }
+            },
+            {
+              "distanceMeters": 3757,
+              "staticDuration": "266s",
+              "polyline": {
+                "encodedPolyline": "swu_GbovyLb@pAgBx[ChC?jDKxC[`Dk@zCkDtLoAbEs@|A}@zAcAnAw@v@sA~@_Ad@sBz@wA|@k@d@yAdBq@fAk@lAs@nBi@`C_@hCQfDAfB?t@LdDhH~~A?bC]fZGt@KfA"
+              },
+              "startLocation": {
+                "latLng": {
+                  "latitude": 42.0596166,
+                  "longitude": -72.5376168
+                }
+              },
+              "endLocation": {
+                "latLng": {
+                  "latitude": 42.065169399999995,
+                  "longitude": -72.57927289999999
+                }
+              },
+              "navigationInstruction": {
+                "maneuver": "TURN_LEFT",
+                "instructions": "Turn left onto Converse St"
+              }
+            },
+            {
+              "distanceMeters": 1230,
+              "staticDuration": "102s",
+              "polyline": {
+                "encodedPolyline": "izv_Gls~yLcBD{DTgEf@gC`@aLfCo@TuA|@kGnEkBv@_Cb@qDf@o@Ek@Ug@g@}@{A_@@"
+              },
+              "startLocation": {
+                "latLng": {
+                  "latitude": 42.065169399999995,
+                  "longitude": -72.57927289999999
+                }
+              },
+              "endLocation": {
+                "latLng": {
+                  "latitude": 42.075585499999995,
+                  "longitude": -72.5817871
+                }
+              },
+              "navigationInstruction": {
+                "maneuver": "TURN_RIGHT",
+                "instructions": "Turn right onto US-5 N/Longmeadow St"
+              }
+            },
+            {
+              "distanceMeters": 448,
+              "staticDuration": "19s",
+              "polyline": {
+                "encodedPolyline": "m{x_Gdc_zL_AkAgHwFmAq@qAa@cEm@"
+              },
+              "startLocation": {
+                "latLng": {
+                  "latitude": 42.075585499999995,
+                  "longitude": -72.5817871
+                }
+              },
+              "endLocation": {
+                "latLng": {
+                  "latitude": 42.0791665,
+                  "longitude": -72.5795201
+                }
+              },
+              "navigationInstruction": {
+                "maneuver": "MERGE",
+                "instructions": "Merge onto I-91 N/US-5 N"
+              }
+            },
+            {
+              "distanceMeters": 476,
+              "staticDuration": "28s",
+              "polyline": {
+                "encodedPolyline": "yqy_G~t~yLEOmBi@qBWyDm@cAUwBO_@N[ZS`@Il@@l@Ll@HN@H"
+              },
+              "startLocation": {
+                "latLng": {
+                  "latitude": 42.0791665,
+                  "longitude": -72.5795201
+                }
+              },
+              "endLocation": {
+                "latLng": {
+                  "latitude": 42.082499999999996,
+                  "longitude": -72.5799012
+                }
+              },
+              "navigationInstruction": {
+                "maneuver": "RAMP_RIGHT",
+                "instructions": "Take exit 3 for US-5 N toward MA-57/W. Springfield"
+              }
+            },
+            {
+              "distanceMeters": 600,
+              "staticDuration": "34s",
+              "polyline": {
+                "encodedPolyline": "sfz_Gjw~yLp@|@Rl@rFdb@VbC"
+              },
+              "startLocation": {
+                "latLng": {
+                  "latitude": 42.082499999999996,
+                  "longitude": -72.5799012
+                }
+              },
+              "endLocation": {
+                "latLng": {
+                  "latitude": 42.0808132,
+                  "longitude": -72.5867317
+                }
+              }
+            },
+            {
+              "distanceMeters": 194,
+              "staticDuration": "16s",
+              "polyline": {
+                "encodedPolyline": "a|y_G`b`zLEPDfA@hFE\\Wf@c@d@"
+              },
+              "startLocation": {
+                "latLng": {
+                  "latitude": 42.0808132,
+                  "longitude": -72.5867317
+                }
+              },
+              "endLocation": {
+                "latLng": {
+                  "latitude": 42.0811284,
+                  "longitude": -72.5888908
+                }
+              },
+              "navigationInstruction": {
+                "maneuver": "RAMP_RIGHT",
+                "instructions": "Take the exit toward MA-57/Agawam/Southwick"
+              }
+            },
+            {
+              "distanceMeters": 839,
+              "staticDuration": "62s",
+              "polyline": {
+                "encodedPolyline": "a~y_Gpo`zLGDw@DOM_@}@SiAUmBAa@]sDAq@Lk@Vo@XYRGrC_@l@NzJ|GhFzC"
+              },
+              "startLocation": {
+                "latLng": {
+                  "latitude": 42.0811284,
+                  "longitude": -72.5888908
+                }
+              },
+              "endLocation": {
+                "latLng": {
+                  "latitude": 42.0776143,
+                  "longitude": -72.5878346
+                }
+              },
+              "navigationInstruction": {
+                "maneuver": "ROUNDABOUT_RIGHT",
+                "instructions": "At the traffic circle, take the 1st exit onto River Rd"
+              }
+            },
+            {
+              "distanceMeters": 53,
+              "staticDuration": "8s",
+              "polyline": {
+                "encodedPolyline": "ahy_G|h`zLW|B"
+              },
+              "startLocation": {
+                "latLng": {
+                  "latitude": 42.0776143,
+                  "longitude": -72.5878346
+                }
+              },
+              "endLocation": {
+                "latLng": {
+                  "latitude": 42.077728,
+                  "longitude": -72.588455
+                }
+              },
+              "navigationInstruction": {
+                "maneuver": "TURN_RIGHT",
+                "instructions": "Turn right onto N Alhambra Cir"
+              }
+            },
+            {
+              "distanceMeters": 303,
+              "staticDuration": "29s",
+              "polyline": {
+                "encodedPolyline": "yhy_Gzl`zLd@z@Hb@Av@}A~O"
+              },
+              "startLocation": {
+                "latLng": {
+                  "latitude": 42.077728,
+                  "longitude": -72.588455
+                }
+              },
+              "endLocation": {
+                "latLng": {
+                  "latitude": 42.077967,
+                  "longitude": -72.591943
+                }
+              },
+              "navigationInstruction": {
+                "maneuver": "TURN_LEFT",
+                "instructions": "Turn left onto S Alhambra Cir"
+              }
+            },
+            {
+              "distanceMeters": 667,
+              "staticDuration": "48s",
+              "polyline": {
+                "encodedPolyline": "ijy_GrbazLeAdL@x@tE~`@"
+              },
+              "startLocation": {
+                "latLng": {
+                  "latitude": 42.077967,
+                  "longitude": -72.591943
+                }
+              },
+              "endLocation": {
+                "latLng": {
+                  "latitude": 42.077242999999996,
+                  "longitude": -72.599784
+                }
+              },
+              "navigationInstruction": {
+                "maneuver": "STRAIGHT",
+                "instructions": "Continue straight onto Corey St"
+              }
+            },
+            {
+              "distanceMeters": 244,
+              "staticDuration": "42s",
+              "polyline": {
+                "encodedPolyline": "wey_GrsbzLvCm@f@U^_@P_@PgA^qC"
+              },
+              "startLocation": {
+                "latLng": {
+                  "latitude": 42.077242999999996,
+                  "longitude": -72.599784
+                }
+              },
+              "endLocation": {
+                "latLng": {
+                  "latitude": 42.0757792,
+                  "longitude": -72.5980335
+                }
+              },
+              "navigationInstruction": {
+                "maneuver": "TURN_LEFT",
+                "instructions": "Turn left onto Janelle Dr\nDestination will be on the right"
+              }
+            }
+          ]
+        }
+      ],
+      "distanceMeters": 157608,
+      "duration": "6848s",
+      "polyline": {
+        "encodedPolyline": "mrlaGtavpLPLBTm@nDDVNL|Af@HPAVKl@c@f@EJwEsAaEeBqFmC}@U_Bo@s@i@{BsAmB{Ay@]u@KyFOEBoB[_@S_@]Ui@Iq@?o@Ju@Re@\\_@l@Wr@Gf@Bh@Nj@b@h@x@Vx@PhADfAC`JEdCDTa@zDmCjQ[dEo@tJGrCA~KB~N`@nl@P~e@GrCYvEIxD@xp@@jISzE]lDmEd`@e@pCo@pC_AtCeAdCsDdIaAjCsAzEuAlDkGxNw@tAaAlAiA|@iCrA{BfA_Ar@eAnAm@`Ao@xAc@~Ai@tCUzBQzD?nDN`D`@|CjCpM\\nCRvCDxCEjDSjDiEtn@wC~d@IrD?tDJrDx@tMNjFxAnwA?lI[hX_@`SIjG?lEF~CZzEj@nFtE|]dCjV|D`[jArH|Lfo@rAfIdA~Hv@tHz@fKrCta@b@hEl@pE|DhYp@fGf@dHvBrg@f@rIz@dKP`EN~NNjErDl{@TrC^jCl@jCt@bCp@bBtAhCxBrDn@bAjAdCn@dBn@dCt@`ErBbMl@fC|@jC~@vB`H`Mz@tBp@fC\\tBR`CDvBErN_@b^DdF`@jONbHfAr]^dGh@|FlMreA^bE`@jHNrFFlGA|GM`[HbGRpGXvE`@jEn@`F~@xFz@fEtAnFtBbHhDtJtZz}@lBzE|B|ExB|DrClExW|^|AbCjCdFbBzD|@~BhB|FbAdEbAfFv@lFl@~FlBpWZxCr@bF~@tEbAxDdAbD`BdEtBbEnFjKbB~D~@nChA`Ev@pDl@jDl@bF\\pEPfEFxDCtFOfFUjDsSleCiCpViBbQ_@~ESrGGxEDvGNpFVtE`@nEl@|Ele@vzCt@tDlAxEp@xBnAfDpAtCtQf^`BjDx@pB~@dCfBdGjA|Er@vD~@vGd@zE`@dHj@tTtBpz@VjFh@hFh@tDz@fE~@xDdAhDzAzD|AdD`BtC~B~DzEfIrKvQxc@|u@vAnCvAvCdBlE~ArEnAfEhAvExApHzX`{AxG~a@|v@b~E`A|EdAlExAzEvd@|uArBlFhCpFhChEnBjC~CpDxEnEthAjcApHxGbEdEdDzD|C`E|BfD`\\vi@lChFnCfGrBfFx^t_ApBrFfAvDjA~Ex@lEdK`p@p@vFb@dFXrFJnE@`DChFO`Fm@bM_JpcBQlFGnE?|DLrG\\rGh@bGxE`_@f@fF\\`GLlFBtG{C|kC@fGHhEVpF^vEh@vEt@~EtKlk@vAfI~@tGv@lHj@fH^lHRdGLvMrCldDTjKb@`Ld@dIr@zJhA~KfAdJxAzJbBnJfB|I`CzJ`CzIjCtI~C`J|C`Ixl@jvAbBtE`AfD|@tD~@zEt@fFr@xGZ`FPvFrApv@VjHb@~Ip@tJl@|GjBfPzEz`@~@xJh@xH|GvjAf@hFl@dEx@~DhApEtAhEnA~ChBrDtJbQzBxEvCtHnDxJ~DtL`EhNdBrHrAfIr@`GXnDVhGx@~YXfFl@|Gt@rF~@jFpArFnAlEtKn\\lAtE|@pEbPb~@lApI~J|t@pAbIbBpIpBpIrCfKrIhZrBhIpBrJvAvIvAnK~D~[dApH`BjJnBhJpBxH`BxFfCrHnCfHpd@|fA`CnGbBdFzYlbAdCjH|C|HvKxVhB`F~AhFt@vCnA`GfAnGt@~Fd@fF`@~GPfGhAts@\\`Kh@xIt@~IfArJrVbqBrAtIlBzJdBnHrCdKdCrHdDxIfTzi@fCjH|BvHpB|H~AhHdJve@vOpr@zDdQ`FpT~CzMEf@XnCJrCA|Ac@rHIlB?lBJzBTpBb@nBf@~Av@~A~@vAtEjFtK|LdMrNf@n@fJjKxCzC~BrBzCnBzL|GnBtA|@x@dBjBnAfBjBhDjHzNjApBnBnClAtAv@v@nAdAlBpAnBfAdC`ArHxBvWrHnE`Ax]rGlEhAtEvAbG`C~EdCdEfC`EtClg@na@vEdDdEbClGzCdHjC|JlDnElB`FfC|FtDpEnDvW|UfEjDrGtEpI`GpT~N~e@`ZxGpEpInGdKpI~EnDjFbDvDrB|E|BlHpCjEdBlExBvDvB|DnCrEpDdk@ze@lCxBnd@``@zA`BnAhBzApC|FlLbGvK|EhIhZzf@xApBdBlBdBzAxCtBtd@dZrJxFpUdMpU|KxPdIdFpCtFnDnMlJhEdD|DrCxd@|\\`JdG|DdCvDvBbM|GlGdDJX~ArAbFlHx@hAp@d@PHV?X`BhC|K|BvGrFjNh@z@xHhJ`AzApCfHpArCrApB`C`DvDzE~EhHz@~AVr@lAnEXv@~EbJb@bAVz@Ll@J~@BpAI~LIbHDxEF`H@`CFbBTpBtBtIh@tCt@dF\\|CNjC@zBIjBYlB]pB[tCiAbVCbCBxBNnCVtBp@dDrFpPXxAN~AF|AC~ACj@}Dt\\U`CQxDCtBYzm@BfDNtBLfA`@rBj@jBnRhd@fCrGxAnEtC`KbB`G|@bClArClCrExJnP`ApA|DlDbA~@j@x@Tp@J`@JdA@bAGn@St@_AxBeAxDwHbZcDpLkG|VeBjH@FaB`GoAjEOr@AdAFdAXnAzAhERhAFpA?bG@vALhCF|@ZjCl@vDz@dD`FfOn@hCNv@Fz@JrFDv@XjBPn@|@jCJ~A@b@L~AEV@dA|@b@BTBBNdADHXlFj@|IZxDG~@Oh@Uv@y@jAkEtEmBpAk@ZuAh@yAd@sBt@eBZaCZsAd@m@j@Y\\u@jAwA|ASZ{@tCg@bA]b@{AhAaC|AmExB{@t@_AzAyApC}C|Ea@hAQ`AMbBu@hMYbI]nMObBoAzH[jA}@hByA`C{B`Dw@v@eHpD{A~@eA`AeAjAwA`ByAhBm@bAWp@]pASxA?bANrBUfASLIVAZFXNNJDd@n@dDbQ`AjEvCjLb@nBd@jDPxBJnCS`PYrDcA~I{@xHg@xFO`CS`GI~DBxIA~AIbBO`Be@lCuCxO{@|F_@jB_BhFgDlIy@~BeBzF{CpIy@~CoAvGgApH_@lDKjB_@`IK~BGhCQxLY~Fo@xKwAnRuAdN_@pCg@rBs@hCqCxNi@lDWnCe@xIWzGQpGIdG?lDIzA_FzXs@fDkDzMa@rCcAhLs@zI]dH_@|I[~EcAhL_@fGQxCyFt@kMxAeEv@gFfAsIpBcARy@\\eBrAyLfKqDvC_`@hXyGnEiHpFuElDeE|CeAl@o@XiBb@yE~@_B~@qAfAcBxBwLlQwAjB_GvGgPfQo@l@YRaBj@iKfBsBd@kAh@gAp@qAlAuBlCcAtA{@v@aGbD{@V_Ff@wEb@gBZgCz@w]~MaAp@s@v@g@v@Yl@eFbOy@hBUb@{@jAoU|W}AvAkKrH_DhCqBbCmC|D{[lh@eBzC{AfDgBjFaAnEaIzf@{@bEgEtPaC`IkJ|X}@dDwFzUa@xAm@dB{@bByYre@_JlN_BfCcJfOOLEVDVPJLXHVf@p@f@rBlFdShQvm@f@vBHp@dBlZ@~@YnE@rBH|AVpB~@jETv@Xd@|@fAx@x@bB|AFh@E`@I^cHvE_@\\q@b@b@pAgBx[ChC?jDKxC[`Dk@zCkDtLoAbEs@|A}@zAcAnAw@v@sA~@_Ad@sBz@wA|@k@d@yAdBq@fAk@lAs@nBi@`C_@hCQfDAfB?t@LdDhH~~A?bC]fZGt@KfAcBD{DTgEf@gC`@aLfCo@TuA|@kGnEkBv@_Cb@qDf@o@Ek@Ug@g@}@{A_@@_AkAgHwFmAq@qAa@cEm@EOmBi@qBWyDm@cAUwBO_@N[ZS`@Il@@l@Ll@HN@Hp@|@Rl@rFdb@VbCEPDfA@hFE\\Wf@c@d@GDw@DOM_@}@SiAUmBAa@]sDAq@Lk@Vo@XYRGrC_@l@NzJ|GhFzCW|Bd@z@Hb@Av@}A~OeAdL@x@tE~`@vCm@f@U^_@P_@PgA^qC"
+      },
+      "routeLabels": [
+        "DEFAULT_ROUTE_ALTERNATE"
+      ]
+    },
+    {
+      "legs": [
+        {
+          "distanceMeters": 194181,
+          "duration": "7097s",
+          "staticDuration": "7127s",
+          "polyline": {
+            "encodedPolyline": "mrlaGtavpLPLBTm@nDDVNL|Af@HPAVKl@c@f@EJwEsAaEeBo@[SBIROnADVRX|DxA|Bz@`A^|GfD~HdEfBj@zAT`BJdBGx@Ot@_@z@m@FC~DuC|EmEvFgEhImHJ@`AaAXa@zA{AfBoBD_@|Y}WpByAxGsDxRgKzB{@bCk@zBYhCKdCDvBTlCh@|YhJdH|AhBPzBBlBMlB]|Bq@~Aw@`BgAhBcBpPyRvAoArBoApc@cR|JcE~CcAtEaAlOyCbCUdCC|BN~AT|Bl@`Bp@tBnAto@|c@bBz@vBp@rB^vBNzBAhBQbCg@dBq@dmAwp@tIaFbQcKxB}@bBe@pXoEhBe@fBs@xA{@`BqAtAuAlAcBhAoB`AyBx@iCfGqWv@aCx@oBhAoBxAmBxKqLxAmAhBiAbBq@nBg@pBYfVmBvBEpML`@HpMRhBPfB^bBl@fB~@|AjA`B~ApAfBlApBp@`BHVR\\|Jn^zAfE`BtDlBnDxBdDbCvCfMdMfY|XpDfEjCpDbCzDhCzE|BdFhBtEtBnG~AhGbAxE`AvFp@bFn@|GzLveBHbBNrB`Cr[xCfc@v@fONlHFbKGhJ{Als@g@dVE`KJxNtAdcBAjGShH]tGg@tFw@`G}@~EqAtFqAnEWp@YDaAzBy@tAe@h@s@^u@LcFF}@L_AX}@d@k@l@c@~@UbAIfABhAJz@Vt@\\j@j@l@pAn@tQbIJHfIzDpItElJxF~GtEfHjFhDpCv@t@xQdPjuA`oAnVzTlGpFfCxBtLxKrLnK|SlRfVrTvEtEfG|G|FhHtFxHhFfIpEzHvDlH|BxEdDnHnMl[~Pjb@~DlI~CxFrD`G~KpPxAdCh\\hn@h@|@fClDfCbDrCrChC~BdChB|IvFlx@nf@`CnA`DxAjEzAdFrAzDp@pEf@hET|DBv_@]tDOjEa@dEm@rFmAfEoArM_F|f@oRnIgDvIeDhO{F|E{ArEeAdEo@tEc@fESlEEvFNtE^dEj@nE|@|ErArHpCr}@~]tDbBp|DprBlDvB|DpCjEnD~D~D`EtEfDnEtArB@`@v@~BPhAHnA@tJJpA~BjJDz@Ep@UbAe@hBBb@}BhHoA|EiA|EqAbHgAbHs@xFgBlReJjcAo@bG_@vC_A`GuAhHiFbWsAfI}@lHu@hI]fF[fH}EhhBMpJ?tk@I~HWtHc@|He@tFqC~Wg@lGc@rI_Ad_@YfGe@`Hu@|HiApIqAlH}AlHiBbHyAxEwBfGwC`H_C~EuChFaFxHcR~XeEbHuD~GyC`GoE|JkD|IqC|HyCpJ}BhIqEhReX~iAsBxHkCjIuCbIqCtGsDtHkCvEqu@lnAuDjFeEfFqEvEeEtD}DvCqExCaFlC}GtCqN|FoEzBeCtAmD~BsFhE}CnCwBxBqDdEyCzDqG|IcE~EcJjJmDfEyCbEeDfFeCpE_DvGwChHoBvF_BnFyA~FuAnGqApHgBlK}AnHaBrGyA~EiBnFsBdFwBzE_DfGkClEyBdDmExF{DjEeE~D{[`X_EvCiF`DaFfCyD~AqKnDeFfBsF~BgErBeQdJmElB_IxCsSpHuD|AmExBq\\jQuF`C}GzBog@jMsCz@gDnAaDvAaE|BsE|CqDxCkDhDoDfEmCtDaDfFkCfF_CnFiB~EcBrFmUxx@}BfHsAtDmBvEwClGkDhG_CtDmEdGwDnEuDvDkNpMeChCiEfFcDpEc[be@{DbF{DjEoDjD_DlC}DtC{DdCwEdCeEhBgFhBcFtAwFjAmTrDwEhAeEnA_FjBsExByQpJeF|B{FtB}RhGuHjC}N~FeFfBgFrAcFbAgFp@aEZqLz@_Eh@aEr@qEfAgSvFuFlAoEn@e_@tDkFx@qE`AgFxAcFjB{WtL_E|AkDdAgFnAm_@hHyElAgFdBwEnBiHtDaG~CoF|B{QpGsF~AUIgBT{@Ao@W]]Wg@Ka@Iw@D}@Je@\\s@b@[h@Mj@@t@Rh@b@b@r@V|@N~@JlCNnHAlBIpBGlAYzBMv@k@|Bi@xAg@dAo@bAwF|G]t@Q|@IbA@z@Jx@Z`A\\l@b@`@j@Vn@JjDJb@Pt@p@fA`BVJjA~BhChEnBjC~CpDxEnEthAjcApHxGbEdEdDzD|C`E|BfD`\\vi@lChFnCfGrBfFx^t_ApBrFfAvDjA~Ex@lEdK`p@p@vFb@dFXrFJnE@`DChFO`Fm@bM_JpcBQlFGnE?|DLrG\\rGh@bGxE`_@f@fF\\`GLlFBtG{C|kC@fGHhEVpF^vEh@vEt@~EtKlk@vAfI~@tGv@lHj@fH^lHRdGLvMrCldDTjKb@`Ld@dIr@zJhA~KfAdJxAzJbBnJfB|I`CzJ`CzIjCtI~C`J|C`Ixl@jvAbBtE`AfD|@tD~@zEt@fFr@xGZ`FPvFrApv@VjHb@~Ip@tJl@|GjBfPzEz`@~@xJh@xH|GvjAf@hFl@dEx@~DhApEtAhEnA~ChBrDtJbQzBxEvCtHnDxJ~DtL`EhNdBrHrAfIr@`GXnDVhGx@~YXfFl@|Gt@rF~@jFpArFnAlEtKn\\lAtE|@pEbPb~@lApI~J|t@pAbIbBpIpBpIrCfKrIhZrBhIpBrJvAvIvAnK~D~[dApH`BjJnBhJpBxH`BxFfCrHnCfHpd@|fA`CnGbBdFzYlbAdCjH|C|HvKxVhB`F~AhFt@vCnA`GfAnGt@~Fd@fF`@~GPfGhAts@\\`Kh@xIt@~IfArJrVbqBrAtIlBzJdBnHrCdKdCrHdDxIfTzi@fCjH|BvHpB|H~AhHdJve@vOpr@zDdQ`FpT~CzMfEnRx@`Fj@|EXbDVlFHrD@vFIxEY~Fa@~Eo@~Ey@zEmAjFwArEkObc@}AfFsApFaAzE{@zFw@|Gc@tF[pGOjH?bGHfGVbHbNhnB\\bIN`H@bIGhGSfH]vGo@bI{@rHcAvGeAvFyAnGaBdGwBtGmB~E_CjFkCfF_DnFi{@zrAyCnFsCbGaCdG}BxGiA|D{X|eAsAlEqB~FeCdGwCdG}CrFiDbFqb@dl@yCpE_DxFaDxGyiAjjC}AhE{A~EeAbEaAbFo@dEm@lFc@~FQ~DIjF?lGJhFpArWlKtrB`@dGx@xHfAtHxAbIxApGnBbHpB`Gbu@`sBjClIvB`I`BjHnAnGvAzIz@rGz@fIl@vHVlELhEFfHIlGUhF]fFk@dFu@`FeAhF_AlDiAzDyAfEgB`EuRb_@a[tl@yAjDeAzCcAvDy@~Do@fEc@hEU`EKvDArEJhF\\lF`@`Ep@`E|@hE|Snw@`B`GlApFhAzGn@zF^zEVhGfAh`@P|Dj@rHh@rEn@~DbA~EjArEjAvDjA~CfC|FbCnEhBrClUt\\vGvJnIxLnEzG~B~DjBnDdBzD`CfGpBdGhB|GrAjGdA~F~@vGl@zFh@pH\\`ILnG@vHK~GUzGo@vJiLp}AwFnv@e@lEw@hFo@vCsAdFi{@hhCyAhF{AxGiAnGy@pGk@`G]zFWzHGlGFtGNjG|IvhBtFpcAb@hJx@|NbDjq@pCdn@|Ux|ERfFPfJ?`JKRKbAQ|@a@bAa@h@uE`Fo@hAgAlDOt@UfB]pEGn@@tBFlAV|@Zx@JNl@f@hHx@fBXrGt@`El@tGv@p_@dFnE`@`EP`FA~QQbFCrCFhCRrB`@lA^rB`ApBtAdCvBpHbIbCvBrE`DrDrBdZxNtBnArB~AnAnAlA|ApAvBbAzBbBrEnEnNt@pCfA`DdB`FtBpFxBnEpS~]zBzEtAjDvAlErB~HjFrSfC|IpB`GnD`JhDnHhC`FfCfElDjFdB|BD\\tJ~NxBvD~FlLzAfDtBbEj@z@t@z@nAbAxAr@lAX|@B|AMdAYhAu@v@w@lAeB~BeEnBcEpAgDp@_CLMtBsHfAuCxAwC|A_CxHaJ`F}FvDmF`GmJ`DuE|C{DxA{A~BkB|BmAhAe@hHsBvMuDdFsAjAc@RJnC]dFw@v@QpBs@N?bFwAj@A`@L`@\\LLF@p@|@Rl@rFdb@VbCEPDfA@hFE\\Wf@c@d@GDw@DOM_@}@SiAUmBAa@]sDAq@Lk@Vo@XYRGrC_@l@NzJ|GhFzCW|Bd@z@Hb@Av@}A~OeAdL@x@tE~`@vCm@f@U^_@P_@PgA^qC"
+          },
+          "startLocation": {
+            "latLng": {
+              "latitude": 42.340386699999996,
+              "longitude": -71.0609095
+            }
+          },
+          "endLocation": {
+            "latLng": {
+              "latitude": 42.0757792,
+              "longitude": -72.5980335
+            }
+          },
+          "steps": [
+            {
+              "distanceMeters": 108,
+              "staticDuration": "28s",
+              "polyline": {
+                "encodedPolyline": "mrlaGtavpLPLBTm@nDDV"
+              },
+              "startLocation": {
+                "latLng": {
+                  "latitude": 42.340386699999996,
+                  "longitude": -71.0609095
+                }
+              },
+              "endLocation": {
+                "latLng": {
+                  "latitude": 42.3404753,
+                  "longitude": -71.0620871
+                }
+              }
+            },
+            {
+              "distanceMeters": 105,
+              "staticDuration": "34s",
+              "polyline": {
+                "encodedPolyline": "_slaG`ivpLNL|Af@HPAVKl@"
+              },
+              "startLocation": {
+                "latLng": {
+                  "latitude": 42.3404753,
+                  "longitude": -71.0620871
+                }
+              },
+              "endLocation": {
+                "latLng": {
+                  "latitude": 42.33995300000001,
+                  "longitude": -71.0627957
+                }
+              },
+              "navigationInstruction": {
+                "maneuver": "TURN_LEFT",
+                "instructions": "Turn left toward Frontage Rd"
+              }
+            },
+            {
+              "distanceMeters": 302,
+              "staticDuration": "51s",
+              "polyline": {
+                "encodedPolyline": "uolaGnmvpLc@f@EJwEsAaEeBo@["
+              },
+              "startLocation": {
+                "latLng": {
+                  "latitude": 42.33995300000001,
+                  "longitude": -71.0627957
+                }
+              },
+              "endLocation": {
+                "latLng": {
+                  "latitude": 42.342452,
+                  "longitude": -71.0619883
+                }
+              },
+              "navigationInstruction": {
+                "maneuver": "TURN_RIGHT",
+                "instructions": "Turn right onto Frontage Rd"
+              }
+            },
+            {
+              "distanceMeters": 82,
+              "staticDuration": "12s",
+              "polyline": {
+                "encodedPolyline": "i_maGlhvpLSBIROnADVRX"
+              },
+              "startLocation": {
+                "latLng": {
+                  "latitude": 42.342452,
+                  "longitude": -71.0619883
+                }
+              },
+              "endLocation": {
+                "latLng": {
+                  "latitude": 42.3425471,
+                  "longitude": -71.0627648
+                }
+              },
+              "navigationInstruction": {
+                "maneuver": "TURN_LEFT",
+                "instructions": "Turn left toward Albany St"
+              }
+            },
+            {
+              "distanceMeters": 186,
+              "staticDuration": "21s",
+              "polyline": {
+                "encodedPolyline": "}_maGfmvpL|DxA|Bz@"
+              },
+              "startLocation": {
+                "latLng": {
+                  "latitude": 42.3425471,
+                  "longitude": -71.0627648
+                }
+              },
+              "endLocation": {
+                "latLng": {
+                  "latitude": 42.340970999999996,
+                  "longitude": -71.0635078
+                }
+              },
+              "navigationInstruction": {
+                "maneuver": "TURN_SLIGHT_LEFT",
+                "instructions": "Slight left onto Albany St"
+              }
+            },
+            {
+              "distanceMeters": 1449,
+              "staticDuration": "154s",
+              "polyline": {
+                "encodedPolyline": "avlaG|qvpL`A^|GfD~HdEfBj@zAT`BJdBGx@Ot@_@z@m@FC~DuC|EmEvFgEhImHJ@`AaA"
+              },
+              "startLocation": {
+                "latLng": {
+                  "latitude": 42.340970999999996,
+                  "longitude": -71.0635078
+                }
+              },
+              "endLocation": {
+                "latLng": {
+                  "latitude": 42.3293819,
+                  "longitude": -71.0607505
+                }
+              }
+            },
+            {
+              "distanceMeters": 12270,
+              "staticDuration": "520s",
+              "polyline": {
+                "encodedPolyline": "smjaGt`vpLXa@zA{AfBoBD_@|Y}WpByAxGsDxRgKzB{@bCk@zBYhCKdCDvBTlCh@|YhJdH|AhBPzBBlBMlB]|Bq@~Aw@`BgAhBcBpPyRvAoArBoApc@cR|JcE~CcAtEaAlOyCbCUdCC|BN~AT|Bl@`Bp@tBnAto@|c@bBz@vBp@rB^vBNzBAhBQbCg@dBq@dmAwp@tIaFbQcKxB}@bBe@pXoEhBe@fBs@xA{@`BqAtAuAlAcBhAoB`AyBx@iCfGqWv@aCx@oBhAoBxAmBxKqLxAmAhBiAbBq@nBg@pBYfVmBvBEpML"
+              },
+              "startLocation": {
+                "latLng": {
+                  "latitude": 42.3293819,
+                  "longitude": -71.0607505
+                }
+              },
+              "endLocation": {
+                "latLng": {
+                  "latitude": 42.231280299999995,
+                  "longitude": -71.0233697
+                }
+              },
+              "navigationInstruction": {
+                "maneuver": "RAMP_LEFT",
+                "instructions": "Merge onto I-93 S via the ramp on the left to Quincy"
+              }
+            },
+            {
+              "distanceMeters": 5517,
+              "staticDuration": "203s",
+              "polyline": {
+                "encodedPolyline": "ohw`G`wnpL`@HpMRhBPfB^bBl@fB~@|AjA`B~ApAfBlApBp@`BHVR\\|Jn^zAfE`BtDlBnDxBdDbCvCfMdMfY|XpDfEjCpDbCzDhCzE|BdFhBtEtBnG~AhGbAxE`AvFp@bFn@|GzLveBHbBNrB"
+              },
+              "startLocation": {
+                "latLng": {
+                  "latitude": 42.231280299999995,
+                  "longitude": -71.0233697
+                }
+              },
+              "endLocation": {
+                "latLng": {
+                  "latitude": 42.2047065,
+                  "longitude": -71.07413090000001
+                }
+              },
+              "navigationInstruction": {
+                "maneuver": "TURN_RIGHT",
+                "instructions": "Keep right to stay on I-93 S"
+              }
+            },
+            {
+              "distanceMeters": 5103,
+              "staticDuration": "187s",
+              "polyline": {
+                "encodedPolyline": "mbr`GhtxpL`Cr[xCfc@v@fONlHFbKGhJ{Als@g@dVE`KJxNtAdcBAjGShH]tGg@tFw@`G}@~EqAtFqAnEWp@"
+              },
+              "startLocation": {
+                "latLng": {
+                  "latitude": 42.2047065,
+                  "longitude": -71.07413090000001
+                }
+              },
+              "endLocation": {
+                "latLng": {
+                  "latitude": 42.2051161,
+                  "longitude": -71.135345
+                }
+              },
+              "navigationInstruction": {
+                "maneuver": "TURN_RIGHT",
+                "instructions": "Keep right to stay on I-93 S"
+              }
+            },
+            {
+              "distanceMeters": 1132,
+              "staticDuration": "53s",
+              "polyline": {
+                "encodedPolyline": "_er`GzrdqLYDaAzBy@tAe@h@s@^u@LcFF}@L_AX}@d@k@l@c@~@UbAIfABhAJz@Vt@\\j@j@l@pAn@tQbIJH"
+              },
+              "startLocation": {
+                "latLng": {
+                  "latitude": 42.2051161,
+                  "longitude": -71.135345
+                }
+              },
+              "endLocation": {
+                "latLng": {
+                  "latitude": 42.205200999999995,
+                  "longitude": -71.1418425
+                }
+              },
+              "navigationInstruction": {
+                "maneuver": "RAMP_RIGHT",
+                "instructions": "Take exit 1A for I-95 S toward Providence Ri"
+              }
+            },
+            {
+              "distanceMeters": 22954,
+              "staticDuration": "752s",
+              "polyline": {
+                "encodedPolyline": "oer`Gn{eqLfIzDpItElJxF~GtEfHjFhDpCv@t@xQdPjuA`oAnVzTlGpFfCxBtLxKrLnK|SlRfVrTvEtEfG|G|FhHtFxHhFfIpEzHvDlH|BxEdDnHnMl[~Pjb@~DlI~CxFrD`G~KpPxAdCh\\hn@h@|@fClDfCbDrCrChC~BdChB|IvFlx@nf@`CnA`DxAjEzAdFrAzDp@pEf@hET|DBv_@]tDOjEa@dEm@rFmAfEoArM_F|f@oRnIgDvIeDhO{F|E{ArEeAdEo@tEc@fESlEEvFNtE^dEj@nE|@|ErArHpCr}@~]tDbBp|DprBlDvB|DpCjEnD~D~D`EtEfDnEtArB"
+              },
+              "startLocation": {
+                "latLng": {
+                  "latitude": 42.205200999999995,
+                  "longitude": -71.1418425
+                }
+              },
+              "endLocation": {
+                "latLng": {
+                  "latitude": 42.029492399999995,
+                  "longitude": -71.25377999999999
+                }
+              }
+            },
+            {
+              "distanceMeters": 40022,
+              "staticDuration": "1324s",
+              "polyline": {
+                "encodedPolyline": "i{o_Gbw{qL@`@v@~BPhAHnA@tJJpA~BjJDz@Ep@UbAe@hBBb@}BhHoA|EiA|EqAbHgAbHs@xFgBlReJjcAo@bG_@vC_A`GuAhHiFbWsAfI}@lHu@hI]fF[fH}EhhBMpJ?tk@I~HWtHc@|He@tFqC~Wg@lGc@rI_Ad_@YfGe@`Hu@|HiApIqAlH}AlHiBbHyAxEwBfGwC`H_C~EuChFaFxHcR~XeEbHuD~GyC`GoE|JkD|IqC|HyCpJ}BhIqEhReX~iAsBxHkCjIuCbIqCtGsDtHkCvEqu@lnAuDjFeEfFqEvEeEtD}DvCqExCaFlC}GtCqN|FoEzBeCtAmD~BsFhE}CnCwBxBqDdEyCzDqG|IcE~EcJjJmDfEyCbEeDfFeCpE_DvGwChHoBvF_BnFyA~FuAnGqApHgBlK}AnHaBrGyA~EiBnFsBdFwBzE_DfGkClEyBdDmExF{DjEeE~D{[`X_EvCiF`DaFfCyD~AqKnDeFfBsF~BgErBeQdJmElB_IxCsSpHuD|AmExBq\\jQuF`C}GzBog@jMsCz@gDnAaDvAaE|BsE|CqDxCkDhDoDfEmCtDaDfFkCfF_CnFiB~EcBrFmUxx@}BfHsAtDmBvEwClGkDhG_CtDmEdGwDnEuDvDkNpMeChCiEfFcDpEc[be@{DbF{DjEoDjD_DlC}DtC{DdCwEdCeEhBgFhBcFtAwFjAmTrDwEhAeEnA_FjBsExByQpJeF|B{FtB}RhGuHjC}N~FeFfBgFrAcFbAgFp@aEZqLz@_Eh@aEr@qEfAgSvFuFlAoEn@e_@tDkFx@qE`AgFxAcFjB{WtL_E|AkDdAgFnAm_@hHyElAgFdBwEnBiHtDaG~CoF|B{QpGsF~A"
+              },
+              "startLocation": {
+                "latLng": {
+                  "latitude": 42.029492399999995,
+                  "longitude": -71.25377999999999
+                }
+              },
+              "endLocation": {
+                "latLng": {
+                  "latitude": 42.2630893,
+                  "longitude": -71.5630532
+                }
+              },
+              "navigationInstruction": {
+                "maneuver": "RAMP_RIGHT",
+                "instructions": "Take exit 12B to merge onto I-495 N"
+              }
+            },
+            {
+              "distanceMeters": 89606,
+              "staticDuration": "3007s",
+              "polyline": {
+                "encodedPolyline": "io}`G`dxsLUIgBT{@Ao@W]]Wg@Ka@Iw@D}@Je@\\s@b@[h@Mj@@t@Rh@b@b@r@V|@N~@JlCNnHAlBIpBGlAYzBMv@k@|Bi@xAg@dAo@bAwF|G]t@Q|@IbA@z@Jx@Z`A\\l@b@`@j@Vn@JjDJb@Pt@p@fA`BVJjA~BhChEnBjC~CpDxEnEthAjcApHxGbEdEdDzD|C`E|BfD`\\vi@lChFnCfGrBfFx^t_ApBrFfAvDjA~Ex@lEdK`p@p@vFb@dFXrFJnE@`DChFO`Fm@bM_JpcBQlFGnE?|DLrG\\rGh@bGxE`_@f@fF\\`GLlFBtG{C|kC@fGHhEVpF^vEh@vEt@~EtKlk@vAfI~@tGv@lHj@fH^lHRdGLvMrCldDTjKb@`Ld@dIr@zJhA~KfAdJxAzJbBnJfB|I`CzJ`CzIjCtI~C`J|C`Ixl@jvAbBtE`AfD|@tD~@zEt@fFr@xGZ`FPvFrApv@VjHb@~Ip@tJl@|GjBfPzEz`@~@xJh@xH|GvjAf@hFl@dEx@~DhApEtAhEnA~ChBrDtJbQzBxEvCtHnDxJ~DtL`EhNdBrHrAfIr@`GXnDVhGx@~YXfFl@|Gt@rF~@jFpArFnAlEtKn\\lAtE|@pEbPb~@lApI~J|t@pAbIbBpIpBpIrCfKrIhZrBhIpBrJvAvIvAnK~D~[dApH`BjJnBhJpBxH`BxFfCrHnCfHpd@|fA`CnGbBdFzYlbAdCjH|C|HvKxVhB`F~AhFt@vCnA`GfAnGt@~Fd@fF`@~GPfGhAts@\\`Kh@xIt@~IfArJrVbqBrAtIlBzJdBnHrCdKdCrHdDxIfTzi@fCjH|BvHpB|H~AhHdJve@vOpr@zDdQ`FpT~CzMfEnRx@`Fj@|EXbDVlFHrD@vFIxEY~Fa@~Eo@~Ey@zEmAjFwArEkObc@}AfFsApFaAzE{@zFw@|Gc@tF[pGOjH?bGHfGVbHbNhnB\\bIN`H@bIGhGSfH]vGo@bI{@rHcAvGeAvFyAnGaBdGwBtGmB~E_CjFkCfF_DnFi{@zrAyCnFsCbGaCdG}BxGiA|D{X|eAsAlEqB~FeCdGwCdG}CrFiDbFqb@dl@yCpE_DxFaDxGyiAjjC}AhE{A~EeAbEaAbFo@dEm@lFc@~FQ~DIjF?lGJhFpArWlKtrB`@dGx@xHfAtHxAbIxApGnBbHpB`Gbu@`sBjClIvB`I`BjHnAnGvAzIz@rGz@fIl@vHVlELhEFfHIlGUhF]fFk@dFu@`FeAhF_AlDiAzDyAfEgB`EuRb_@a[tl@yAjDeAzCcAvDy@~Do@fEc@hEU`EKvDArEJhF\\lF`@`Ep@`E|@hE|Snw@`B`GlApFhAzGn@zF^zEVhGfAh`@P|Dj@rHh@rEn@~DbA~EjArEjAvDjA~CfC|FbCnEhBrClUt\\vGvJnIxLnEzG~B~DjBnDdBzD`CfGpBdGhB|GrAjGdA~F~@vGl@zFh@pH\\`ILnG@vHK~GUzGo@vJiLp}AwFnv@e@lEw@hFo@vCsAdFi{@hhCyAhF{AxGiAnGy@pGk@`G]zFWzHGlGFtGNjG|IvhBtFpcAb@hJx@|NbDjq@pCdn@|Ux|ERfFPfJ?`J"
+              },
+              "startLocation": {
+                "latLng": {
+                  "latitude": 42.2630893,
+                  "longitude": -71.5630532
+                }
+              },
+              "endLocation": {
+                "latLng": {
+                  "latitude": 42.1615858,
+                  "longitude": -72.5394093
+                }
+              },
+              "navigationInstruction": {
+                "maneuver": "RAMP_RIGHT",
+                "instructions": "Take exit 58 to merge onto I-90 W toward Albany\nToll road"
+              }
+            },
+            {
+              "distanceMeters": 469,
+              "staticDuration": "30s",
+              "polyline": {
+                "encodedPolyline": "}ti`GhzvyLKRKbAQ|@a@bAa@h@uE`Fo@hAgAlDOt@UfB"
+              },
+              "startLocation": {
+                "latLng": {
+                  "latitude": 42.1615858,
+                  "longitude": -72.5394093
+                }
+              },
+              "endLocation": {
+                "latLng": {
+                  "latitude": 42.1639969,
+                  "longitude": -72.5438738
+                }
+              },
+              "navigationInstruction": {
+                "maneuver": "RAMP_RIGHT",
+                "instructions": "Take exit 51 for I-291 toward Springfield/Hartford"
+              }
+            },
+            {
+              "distanceMeters": 256,
+              "staticDuration": "33s",
+              "polyline": {
+                "encodedPolyline": "_dj`GdvwyL]pEGn@@tBFlAV|@Zx@JN"
+              },
+              "startLocation": {
+                "latLng": {
+                  "latitude": 42.1639969,
+                  "longitude": -72.5438738
+                }
+              },
+              "endLocation": {
+                "latLng": {
+                  "latitude": 42.1638194,
+                  "longitude": -72.54681719999999
+                }
+              }
+            },
+            {
+              "distanceMeters": 7238,
+              "staticDuration": "290s",
+              "polyline": {
+                "encodedPolyline": "{bj`GrhxyLl@f@hHx@fBXrGt@`El@tGv@p_@dFnE`@`EP`FA~QQbFCrCFhCRrB`@lA^rB`ApBtAdCvBpHbIbCvBrE`DrDrBdZxNtBnArB~AnAnAlA|ApAvBbAzBbBrEnEnNt@pCfA`DdB`FtBpFxBnEpS~]zBzEtAjDvAlErB~HjFrSfC|IpB`GnD`JhDnHhC`FfCfElDjFdB|B"
+              },
+              "startLocation": {
+                "latLng": {
+                  "latitude": 42.1638194,
+                  "longitude": -72.54681719999999
+                }
+              },
+              "endLocation": {
+                "latLng": {
+                  "latitude": 42.113726199999995,
+                  "longitude": -72.59202719999999
+                }
+              },
+              "navigationInstruction": {
+                "maneuver": "STRAIGHT",
+                "instructions": "Continue straight onto I-291 W"
+              }
+            },
+            {
+              "distanceMeters": 3938,
+              "staticDuration": "160s",
+              "polyline": {
+                "encodedPolyline": "yi``GdcazLD\\tJ~NxBvD~FlLzAfDtBbEj@z@t@z@nAbAxAr@lAX|@B|AMdAYhAu@v@w@lAeB~BeEnBcEpAgDp@_CLMtBsHfAuCxAwC|A_CxHaJ`F}FvDmF`GmJ`DuE|C{DxA{A~BkB|BmAhAe@hHsBvMuDdFsAjAc@"
+              },
+              "startLocation": {
+                "latLng": {
+                  "latitude": 42.113726199999995,
+                  "longitude": -72.59202719999999
+                }
+              },
+              "endLocation": {
+                "latLng": {
+                  "latitude": 42.0872092,
+                  "longitude": -72.5807727
+                }
+              },
+              "navigationInstruction": {
+                "maneuver": "RAMP_RIGHT",
+                "instructions": "Take exit 1A-2A to merge onto I-91 S"
+              }
+            },
+            {
+              "distanceMeters": 544,
+              "staticDuration": "29s",
+              "polyline": {
+                "encodedPolyline": "ad{_Gx|~yLRJnC]dFw@v@QpBs@N?bFwAj@A`@L`@\\LLF@"
+              },
+              "startLocation": {
+                "latLng": {
+                  "latitude": 42.0872092,
+                  "longitude": -72.5807727
+                }
+              },
+              "endLocation": {
+                "latLng": {
+                  "latitude": 42.082499999999996,
+                  "longitude": -72.5799012
+                }
+              },
+              "navigationInstruction": {
+                "maneuver": "RAMP_RIGHT",
+                "instructions": "Take exit 3 for US-5 N toward Agawam/MA-57"
+              }
+            },
+            {
+              "distanceMeters": 600,
+              "staticDuration": "34s",
+              "polyline": {
+                "encodedPolyline": "sfz_Gjw~yLp@|@Rl@rFdb@VbC"
+              },
+              "startLocation": {
+                "latLng": {
+                  "latitude": 42.082499999999996,
+                  "longitude": -72.5799012
+                }
+              },
+              "endLocation": {
+                "latLng": {
+                  "latitude": 42.0808132,
+                  "longitude": -72.5867317
+                }
+              }
+            },
+            {
+              "distanceMeters": 194,
+              "staticDuration": "16s",
+              "polyline": {
+                "encodedPolyline": "a|y_G`b`zLEPDfA@hFE\\Wf@c@d@"
+              },
+              "startLocation": {
+                "latLng": {
+                  "latitude": 42.0808132,
+                  "longitude": -72.5867317
+                }
+              },
+              "endLocation": {
+                "latLng": {
+                  "latitude": 42.0811284,
+                  "longitude": -72.5888908
+                }
+              },
+              "navigationInstruction": {
+                "maneuver": "RAMP_RIGHT",
+                "instructions": "Take the exit toward MA-57/Agawam/Southwick"
+              }
+            },
+            {
+              "distanceMeters": 839,
+              "staticDuration": "62s",
+              "polyline": {
+                "encodedPolyline": "a~y_Gpo`zLGDw@DOM_@}@SiAUmBAa@]sDAq@Lk@Vo@XYRGrC_@l@NzJ|GhFzC"
+              },
+              "startLocation": {
+                "latLng": {
+                  "latitude": 42.0811284,
+                  "longitude": -72.5888908
+                }
+              },
+              "endLocation": {
+                "latLng": {
+                  "latitude": 42.0776143,
+                  "longitude": -72.5878346
+                }
+              },
+              "navigationInstruction": {
+                "maneuver": "ROUNDABOUT_RIGHT",
+                "instructions": "At the traffic circle, take the 1st exit onto River Rd"
+              }
+            },
+            {
+              "distanceMeters": 53,
+              "staticDuration": "8s",
+              "polyline": {
+                "encodedPolyline": "ahy_G|h`zLW|B"
+              },
+              "startLocation": {
+                "latLng": {
+                  "latitude": 42.0776143,
+                  "longitude": -72.5878346
+                }
+              },
+              "endLocation": {
+                "latLng": {
+                  "latitude": 42.077728,
+                  "longitude": -72.588455
+                }
+              },
+              "navigationInstruction": {
+                "maneuver": "TURN_RIGHT",
+                "instructions": "Turn right onto N Alhambra Cir"
+              }
+            },
+            {
+              "distanceMeters": 303,
+              "staticDuration": "29s",
+              "polyline": {
+                "encodedPolyline": "yhy_Gzl`zLd@z@Hb@Av@}A~O"
+              },
+              "startLocation": {
+                "latLng": {
+                  "latitude": 42.077728,
+                  "longitude": -72.588455
+                }
+              },
+              "endLocation": {
+                "latLng": {
+                  "latitude": 42.077967,
+                  "longitude": -72.591943
+                }
+              },
+              "navigationInstruction": {
+                "maneuver": "TURN_LEFT",
+                "instructions": "Turn left onto S Alhambra Cir"
+              }
+            },
+            {
+              "distanceMeters": 667,
+              "staticDuration": "48s",
+              "polyline": {
+                "encodedPolyline": "ijy_GrbazLeAdL@x@tE~`@"
+              },
+              "startLocation": {
+                "latLng": {
+                  "latitude": 42.077967,
+                  "longitude": -72.591943
+                }
+              },
+              "endLocation": {
+                "latLng": {
+                  "latitude": 42.077242999999996,
+                  "longitude": -72.599784
+                }
+              },
+              "navigationInstruction": {
+                "maneuver": "STRAIGHT",
+                "instructions": "Continue straight onto Corey St"
+              }
+            },
+            {
+              "distanceMeters": 244,
+              "staticDuration": "42s",
+              "polyline": {
+                "encodedPolyline": "wey_GrsbzLvCm@f@U^_@P_@PgA^qC"
+              },
+              "startLocation": {
+                "latLng": {
+                  "latitude": 42.077242999999996,
+                  "longitude": -72.599784
+                }
+              },
+              "endLocation": {
+                "latLng": {
+                  "latitude": 42.0757792,
+                  "longitude": -72.5980335
+                }
+              },
+              "navigationInstruction": {
+                "maneuver": "TURN_LEFT",
+                "instructions": "Turn left onto Janelle Dr\nDestination will be on the right"
+              }
+            }
+          ]
+        }
+      ],
+      "distanceMeters": 194181,
+      "duration": "7097s",
+      "polyline": {
+        "encodedPolyline": "mrlaGtavpLPLBTm@nDDVNL|Af@HPAVKl@c@f@EJwEsAaEeBo@[SBIROnADVRX|DxA|Bz@`A^|GfD~HdEfBj@zAT`BJdBGx@Ot@_@z@m@FC~DuC|EmEvFgEhImHJ@`AaAXa@zA{AfBoBD_@|Y}WpByAxGsDxRgKzB{@bCk@zBYhCKdCDvBTlCh@|YhJdH|AhBPzBBlBMlB]|Bq@~Aw@`BgAhBcBpPyRvAoArBoApc@cR|JcE~CcAtEaAlOyCbCUdCC|BN~AT|Bl@`Bp@tBnAto@|c@bBz@vBp@rB^vBNzBAhBQbCg@dBq@dmAwp@tIaFbQcKxB}@bBe@pXoEhBe@fBs@xA{@`BqAtAuAlAcBhAoB`AyBx@iCfGqWv@aCx@oBhAoBxAmBxKqLxAmAhBiAbBq@nBg@pBYfVmBvBEpML`@HpMRhBPfB^bBl@fB~@|AjA`B~ApAfBlApBp@`BHVR\\|Jn^zAfE`BtDlBnDxBdDbCvCfMdMfY|XpDfEjCpDbCzDhCzE|BdFhBtEtBnG~AhGbAxE`AvFp@bFn@|GzLveBHbBNrB`Cr[xCfc@v@fONlHFbKGhJ{Als@g@dVE`KJxNtAdcBAjGShH]tGg@tFw@`G}@~EqAtFqAnEWp@YDaAzBy@tAe@h@s@^u@LcFF}@L_AX}@d@k@l@c@~@UbAIfABhAJz@Vt@\\j@j@l@pAn@tQbIJHfIzDpItElJxF~GtEfHjFhDpCv@t@xQdPjuA`oAnVzTlGpFfCxBtLxKrLnK|SlRfVrTvEtEfG|G|FhHtFxHhFfIpEzHvDlH|BxEdDnHnMl[~Pjb@~DlI~CxFrD`G~KpPxAdCh\\hn@h@|@fClDfCbDrCrChC~BdChB|IvFlx@nf@`CnA`DxAjEzAdFrAzDp@pEf@hET|DBv_@]tDOjEa@dEm@rFmAfEoArM_F|f@oRnIgDvIeDhO{F|E{ArEeAdEo@tEc@fESlEEvFNtE^dEj@nE|@|ErArHpCr}@~]tDbBp|DprBlDvB|DpCjEnD~D~D`EtEfDnEtArB@`@v@~BPhAHnA@tJJpA~BjJDz@Ep@UbAe@hBBb@}BhHoA|EiA|EqAbHgAbHs@xFgBlReJjcAo@bG_@vC_A`GuAhHiFbWsAfI}@lHu@hI]fF[fH}EhhBMpJ?tk@I~HWtHc@|He@tFqC~Wg@lGc@rI_Ad_@YfGe@`Hu@|HiApIqAlH}AlHiBbHyAxEwBfGwC`H_C~EuChFaFxHcR~XeEbHuD~GyC`GoE|JkD|IqC|HyCpJ}BhIqEhReX~iAsBxHkCjIuCbIqCtGsDtHkCvEqu@lnAuDjFeEfFqEvEeEtD}DvCqExCaFlC}GtCqN|FoEzBeCtAmD~BsFhE}CnCwBxBqDdEyCzDqG|IcE~EcJjJmDfEyCbEeDfFeCpE_DvGwChHoBvF_BnFyA~FuAnGqApHgBlK}AnHaBrGyA~EiBnFsBdFwBzE_DfGkClEyBdDmExF{DjEeE~D{[`X_EvCiF`DaFfCyD~AqKnDeFfBsF~BgErBeQdJmElB_IxCsSpHuD|AmExBq\\jQuF`C}GzBog@jMsCz@gDnAaDvAaE|BsE|CqDxCkDhDoDfEmCtDaDfFkCfF_CnFiB~EcBrFmUxx@}BfHsAtDmBvEwClGkDhG_CtDmEdGwDnEuDvDkNpMeChCiEfFcDpEc[be@{DbF{DjEoDjD_DlC}DtC{DdCwEdCeEhBgFhBcFtAwFjAmTrDwEhAeEnA_FjBsExByQpJeF|B{FtB}RhGuHjC}N~FeFfBgFrAcFbAgFp@aEZqLz@_Eh@aEr@qEfAgSvFuFlAoEn@e_@tDkFx@qE`AgFxAcFjB{WtL_E|AkDdAgFnAm_@hHyElAgFdBwEnBiHtDaG~CoF|B{QpGsF~AUIgBT{@Ao@W]]Wg@Ka@Iw@D}@Je@\\s@b@[h@Mj@@t@Rh@b@b@r@V|@N~@JlCNnHAlBIpBGlAYzBMv@k@|Bi@xAg@dAo@bAwF|G]t@Q|@IbA@z@Jx@Z`A\\l@b@`@j@Vn@JjDJb@Pt@p@fA`BVJjA~BhChEnBjC~CpDxEnEthAjcApHxGbEdEdDzD|C`E|BfD`\\vi@lChFnCfGrBfFx^t_ApBrFfAvDjA~Ex@lEdK`p@p@vFb@dFXrFJnE@`DChFO`Fm@bM_JpcBQlFGnE?|DLrG\\rGh@bGxE`_@f@fF\\`GLlFBtG{C|kC@fGHhEVpF^vEh@vEt@~EtKlk@vAfI~@tGv@lHj@fH^lHRdGLvMrCldDTjKb@`Ld@dIr@zJhA~KfAdJxAzJbBnJfB|I`CzJ`CzIjCtI~C`J|C`Ixl@jvAbBtE`AfD|@tD~@zEt@fFr@xGZ`FPvFrApv@VjHb@~Ip@tJl@|GjBfPzEz`@~@xJh@xH|GvjAf@hFl@dEx@~DhApEtAhEnA~ChBrDtJbQzBxEvCtHnDxJ~DtL`EhNdBrHrAfIr@`GXnDVhGx@~YXfFl@|Gt@rF~@jFpArFnAlEtKn\\lAtE|@pEbPb~@lApI~J|t@pAbIbBpIpBpIrCfKrIhZrBhIpBrJvAvIvAnK~D~[dApH`BjJnBhJpBxH`BxFfCrHnCfHpd@|fA`CnGbBdFzYlbAdCjH|C|HvKxVhB`F~AhFt@vCnA`GfAnGt@~Fd@fF`@~GPfGhAts@\\`Kh@xIt@~IfArJrVbqBrAtIlBzJdBnHrCdKdCrHdDxIfTzi@fCjH|BvHpB|H~AhHdJve@vOpr@zDdQ`FpT~CzMfEnRx@`Fj@|EXbDVlFHrD@vFIxEY~Fa@~Eo@~Ey@zEmAjFwArEkObc@}AfFsApFaAzE{@zFw@|Gc@tF[pGOjH?bGHfGVbHbNhnB\\bIN`H@bIGhGSfH]vGo@bI{@rHcAvGeAvFyAnGaBdGwBtGmB~E_CjFkCfF_DnFi{@zrAyCnFsCbGaCdG}BxGiA|D{X|eAsAlEqB~FeCdGwCdG}CrFiDbFqb@dl@yCpE_DxFaDxGyiAjjC}AhE{A~EeAbEaAbFo@dEm@lFc@~FQ~DIjF?lGJhFpArWlKtrB`@dGx@xHfAtHxAbIxApGnBbHpB`Gbu@`sBjClIvB`I`BjHnAnGvAzIz@rGz@fIl@vHVlELhEFfHIlGUhF]fFk@dFu@`FeAhF_AlDiAzDyAfEgB`EuRb_@a[tl@yAjDeAzCcAvDy@~Do@fEc@hEU`EKvDArEJhF\\lF`@`Ep@`E|@hE|Snw@`B`GlApFhAzGn@zF^zEVhGfAh`@P|Dj@rHh@rEn@~DbA~EjArEjAvDjA~CfC|FbCnEhBrClUt\\vGvJnIxLnEzG~B~DjBnDdBzD`CfGpBdGhB|GrAjGdA~F~@vGl@zFh@pH\\`ILnG@vHK~GUzGo@vJiLp}AwFnv@e@lEw@hFo@vCsAdFi{@hhCyAhF{AxGiAnGy@pGk@`G]zFWzHGlGFtGNjG|IvhBtFpcAb@hJx@|NbDjq@pCdn@|Ux|ERfFPfJ?`JKRKbAQ|@a@bAa@h@uE`Fo@hAgAlDOt@UfB]pEGn@@tBFlAV|@Zx@JNl@f@hHx@fBXrGt@`El@tGv@p_@dFnE`@`EP`FA~QQbFCrCFhCRrB`@lA^rB`ApBtAdCvBpHbIbCvBrE`DrDrBdZxNtBnArB~AnAnAlA|ApAvBbAzBbBrEnEnNt@pCfA`DdB`FtBpFxBnEpS~]zBzEtAjDvAlErB~HjFrSfC|IpB`GnD`JhDnHhC`FfCfElDjFdB|BD\\tJ~NxBvD~FlLzAfDtBbEj@z@t@z@nAbAxAr@lAX|@B|AMdAYhAu@v@w@lAeB~BeEnBcEpAgDp@_CLMtBsHfAuCxAwC|A_CxHaJ`F}FvDmF`GmJ`DuE|C{DxA{A~BkB|BmAhAe@hHsBvMuDdFsAjAc@RJnC]dFw@v@QpBs@N?bFwAj@A`@L`@\\LLF@p@|@Rl@rFdb@VbCEPDfA@hFE\\Wf@c@d@GDw@DOM_@}@SiAUmBAa@]sDAq@Lk@Vo@XYRGrC_@l@NzJ|GhFzCW|Bd@z@Hb@Av@}A~OeAdL@x@tE~`@vCm@f@U^_@P_@PgA^qC"
+      },
+      "routeLabels": [
+        "DEFAULT_ROUTE_ALTERNATE"
+      ]
+    }
+  ]
+}
